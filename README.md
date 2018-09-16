@@ -8,4 +8,9 @@ Goals:
 - Learn SQL
 - Improve my JS knowledge
 
+Obstacles:
+- Video Games
+- Work
+- Family
+
 Day 1

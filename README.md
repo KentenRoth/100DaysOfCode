@@ -13,4 +13,10 @@ Obstacles:
 - Work
 - Family
 
-Day 1
+---
+
+Day 1 
+
+I spent a lot of time looking over NodeJS, MongoDB and SQL to see what one I wanted to tackle first.  I settled on a NodeJS and got everything ready to go for it.  I purchased a Udemy Course that has NodeJS and MongoDB in the same course, and also picked up a course on mySQL.  I am excited to get started, and hopefully I can get more time in later tonight.
+
+---

@@ -20,3 +20,9 @@ Day 1
 I spent a lot of time looking over NodeJS, MongoDB and SQL to see what one I wanted to tackle first.  I settled on a NodeJS and got everything ready to go for it.  I purchased a Udemy Course that has NodeJS and MongoDB in the same course, and also picked up a course on mySQL.  I am excited to get started, and hopefully I can get more time in later tonight.
 
 ---
+
+Day 2
+
+So I have to admit that I feel slightly overwhelmed.  I know there is a vast amount of libraries and help for learning NodeJS, but at the start it seems a bit heavy.  I think this feeling will go away once I get more into the language and I see how things start fitting together.  I spent some time on the require function and I see how/why it is used, but I think finding the right library to use and understanding the documentation for them is what is getting me.  I will start looking at a random library or NodeJS api on my lunch at work and read the documentation.  That should help me learn a little better, and hopefully knock the edge off of feeling like this is a big bite and hard to chew.
+
+---

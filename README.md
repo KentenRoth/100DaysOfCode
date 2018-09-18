@@ -26,3 +26,9 @@ Day 2
 So I have to admit that I feel slightly overwhelmed.  I know there is a vast amount of libraries and help for learning NodeJS, but at the start it seems a bit heavy.  I think this feeling will go away once I get more into the language and I see how things start fitting together.  I spent some time on the require function and I see how/why it is used, but I think finding the right library to use and understanding the documentation for them is what is getting me.  I will start looking at a random library or NodeJS api on my lunch at work and read the documentation.  That should help me learn a little better, and hopefully knock the edge off of feeling like this is a big bite and hard to chew.
 
 ---
+
+Day 3
+
+Today feels much better.  I got to use a 3rd party library and go around its documentation to see what it can do.  There is a lot of stuff that it can do that I doubt I will use, but there are features in it that seem nice.  Also, got it installed inside the package.json file so it can be used.  Also, learned that if it is showing in your package.json file that you can delete the main folder before uploading it or sending it to someone.  If someone wants to use the program they just need to run NPM install while in the folder and it will get everything they need.  
+
+---

@@ -32,3 +32,9 @@ Day 3
 Today feels much better.  I got to use a 3rd party library and go around its documentation to see what it can do.  There is a lot of stuff that it can do that I doubt I will use, but there are features in it that seem nice.  Also, got it installed inside the package.json file so it can be used.  Also, learned that if it is showing in your package.json file that you can delete the main folder before uploading it or sending it to someone.  If someone wants to use the program they just need to run NPM install while in the folder and it will get everything they need.  
 
 ---
+
+Day 4
+
+Today was a disappointing day.  I felt good this AM when I got up for work, but by the time I made it threw the day and finally got home and able to get on my computer I was completely exhausted.  I only got about 30-45 minutes in and I feel like I am going to have to go over most if not all of it again tomorrow.  I knew days would be like this from time to time with work and having to work longer days from time to time.  I have more time cut out tomorrow for coding so I will hit it hard and redeem myself.
+
+---

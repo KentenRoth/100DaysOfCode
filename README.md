@@ -1,5 +1,7 @@
 # 100DaysOfCode
 
+I apologize for spelling and grammer issues.  For some reason Grammarly is not working with github.
+
 This repo will be used to keep track of my progress during my 100 days of code journey.  I want to continue learning to code and also use this to help me hold my self accountable.  I know I will miss days along the way due to things coming up or happening.  I want to use this journey to help improve my chances of finally changing into a career that I enjoy.
 
 Goals:
@@ -36,5 +38,11 @@ Today feels much better.  I got to use a 3rd party library and go around its doc
 Day 4
 
 Today was a disappointing day.  I felt good this AM when I got up for work, but by the time I made it threw the day and finally got home and able to get on my computer I was completely exhausted.  I only got about 30-45 minutes in and I feel like I am going to have to go over most if not all of it again tomorrow.  I knew days would be like this from time to time with work and having to work longer days from time to time.  I have more time cut out tomorrow for coding so I will hit it hard and redeem myself.
+
+---
+
+Day 5
+
+Today was a much better day.  I spent sometime at work going over the stuff I did last night to do a bit of a refresher.  I was feeling better about what I did yesterday because of that, and started to dive a little deeper into NodeJS.  I learned more about using process.argv and about the yargs library.  I did run into some errors, but I worked threw them using what was provided by the terminal.  I was able to debug a little and find my mistakes without having to google something or look for answers on stack overflow.  It's the little wins that I have to take when I am early in learning a language so I keep that overwhelmed feeling away, and it helps me realize that I am starting to understand this coding stuff.
 
 ---

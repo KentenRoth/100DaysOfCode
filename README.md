@@ -46,3 +46,9 @@ Day 5
 Today was a much better day.  I spent sometime at work going over the stuff I did last night to do a bit of a refresher.  I was feeling better about what I did yesterday because of that, and started to dive a little deeper into NodeJS.  I learned more about using process.argv and about the yargs library.  I did run into some errors, but I worked threw them using what was provided by the terminal.  I was able to debug a little and find my mistakes without having to google something or look for answers on stack overflow.  It's the little wins that I have to take when I am early in learning a language so I keep that overwhelmed feeling away, and it helps me realize that I am starting to understand this coding stuff.
 
 ---
+
+Day 6
+
+Tonight I continued on with the course I have learning NodeJS.  I spent time learning about JSON and how to parse the data it returns.  This area of the course is starting to feel better because I know the basics of JavaScript.  I am starting to feel really good about how things are put together.
+
+---

@@ -52,3 +52,10 @@ Day 6
 Tonight I continued on with the course I have learning NodeJS.  I spent time learning about JSON and how to parse the data it returns.  This area of the course is starting to feel better because I know the basics of JavaScript.  I am starting to feel really good about how things are put together.
 
 ---
+
+Day 7
+
+Today was cut very short due to a headache.  It's not to often that I get a headache so I'm struggling with fighting threw it.  I did do a couple challenges in my NodeJS course, and completed them succesfully.  I had to filter a couple arrays and setup a remove note function.  The app that I am building in the course is a note taking app.  Tomorrow I plan on getting an early start to coding.  I had a specific goal in mind for the weekend and I still plan on hitting that mark.
+
+---
+

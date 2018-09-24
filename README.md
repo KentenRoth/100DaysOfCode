@@ -59,3 +59,8 @@ Today was cut very short due to a headache.  It's not to often that I get a head
 
 ---
 
+Day 8
+
+Today went well.  I powered threw some challenges.  One took a lot longer than it should have because I spaced of on some simple things.  I most likely could have solved it much faster if I would have jumped on google and looked up the issue, but I feel like learning is done better when I try and fail vs having the answer handed to me.  There are plenty of times that I will google something, but this challenge should not have been that difficult so I wanted to find my own mistake and correct it.
+
+---

@@ -64,3 +64,9 @@ Day 8
 Today went well.  I powered threw some challenges.  One took a lot longer than it should have because I spaced of on some simple things.  I most likely could have solved it much faster if I would have jumped on google and looked up the issue, but I feel like learning is done better when I try and fail vs having the answer handed to me.  There are plenty of times that I will google something, but this challenge should not have been that difficult so I wanted to find my own mistake and correct it.
 
 ---
+
+Day 9
+
+Today I moved into Asynchronous basics.  I completed the basics with learning how to build a note taking app and this is the next step in the course.  I still feel pretty good about how this is going because of knowing the basics of JavaScript.  Tonight got cut a little shorter in time than I thought it would, but I feel like I found a decent stopping point and will jump back in tomorrow night.  I have a 3 day weekend so I am excited to get to the weekend and really hit coding hard.  I want to be completed and understand the async portion of this course by the time I call it a night on Friday.
+
+---

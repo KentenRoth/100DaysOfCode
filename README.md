@@ -70,3 +70,9 @@ Day 9
 Today I moved into Asynchronous basics.  I completed the basics with learning how to build a note taking app and this is the next step in the course.  I still feel pretty good about how this is going because of knowing the basics of JavaScript.  Tonight got cut a little shorter in time than I thought it would, but I feel like I found a decent stopping point and will jump back in tomorrow night.  I have a 3 day weekend so I am excited to get to the weekend and really hit coding hard.  I want to be completed and understand the async portion of this course by the time I call it a night on Friday.
 
 ---
+
+Day 10
+
+Today was spent on doing calls to APIs and learning callbacks.  I also did some error handling and got the location part of the weather app working.  By type in an address now it will pull the lng and lat by getting the information from the mapquest API.  I am still feeling really good about how everything is going with learning NodeJS.  I am excited to push forward and get deeping into what NodeJS can offer.
+
+---

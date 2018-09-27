@@ -76,3 +76,9 @@ Day 10
 Today was spent on doing calls to APIs and learning callbacks.  I also did some error handling and got the location part of the weather app working.  By type in an address now it will pull the lng and lat by getting the information from the mapquest API.  I am still feeling really good about how everything is going with learning NodeJS.  I am excited to push forward and get deeping into what NodeJS can offer.
 
 ---
+
+Day 11
+
+I did not get to code tonight because my daughter has been sick.  Hope she is better tomorrow!!
+
+---

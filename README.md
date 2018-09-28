@@ -82,3 +82,9 @@ Day 11
 I did not get to code tonight because my daughter has been sick.  Hope she is better tomorrow!!
 
 ---
+
+Day 12
+
+Back to back days I wasnt able to code because of my daughter being sick.  She is starting to feel better and starting to act a little more normal so I think all should be good.  I am off work tomorrow and will have the house to myself so I will be getting in extra hours coding.  
+
+---

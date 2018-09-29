@@ -94,3 +94,9 @@ Day 13
 Today went a lot better than the last two days.  I didn't get as far as I wanted, but I am happy with what I did get done today.  I should have the house to myself tomorrow afternoon for a while so I should be able to get in a little more coding that I normally would.  I'm excited to learn more about promises and getting the pieces together on how to deploy a node app.
 
 ---
+
+Day 14
+
+Finished off the weather app that was in the course I am doing.  I have moved on to now learning express and how to get everything running outside of the terminal.  I want to do more with the weather app and try some things out.  I think I will start working on some sort of project that will be like the weather app with more features so I can practice making api calls and using promises.  I also, might upload that to this github repo also.  Not sure how I want to do it for sure.
+
+---

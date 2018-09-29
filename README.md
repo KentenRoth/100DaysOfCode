@@ -88,3 +88,9 @@ Day 12
 Back to back days I wasnt able to code because of my daughter being sick.  She is starting to feel better and starting to act a little more normal so I think all should be good.  I am off work tomorrow and will have the house to myself so I will be getting in extra hours coding.  
 
 ---
+
+Day 13
+
+Today went a lot better than the last two days.  I didn't get as far as I wanted, but I am happy with what I did get done today.  I should have the house to myself tomorrow afternoon for a while so I should be able to get in a little more coding that I normally would.  I'm excited to learn more about promises and getting the pieces together on how to deploy a node app.
+
+---

@@ -100,3 +100,9 @@ Day 14
 Finished off the weather app that was in the course I am doing.  I have moved on to now learning express and how to get everything running outside of the terminal.  I want to do more with the weather app and try some things out.  I think I will start working on some sort of project that will be like the weather app with more features so I can practice making api calls and using promises.  I also, might upload that to this github repo also.  Not sure how I want to do it for sure.
 
 ---
+
+Day 15
+
+Today in the course was spent on using github and how to deploy things to Heroku.  Wasn't a lot of hands on coding going on, but there was a lot of useful information.  I have not used heroku before, so it was good to see how deploying the apps is done.  The next thing in the course is learning how to test apps then it is on to MongoDB.  I might take a few days to work on the weather app to add some more features.  I want to get to MongoDB, but I don't want to rush what I am doing I want to make sure I'm retaining the information that is here.
+
+---

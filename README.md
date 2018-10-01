@@ -106,3 +106,9 @@ Day 15
 Today in the course was spent on using github and how to deploy things to Heroku.  Wasn't a lot of hands on coding going on, but there was a lot of useful information.  I have not used heroku before, so it was good to see how deploying the apps is done.  The next thing in the course is learning how to test apps then it is on to MongoDB.  I might take a few days to work on the weather app to add some more features.  I want to get to MongoDB, but I don't want to rush what I am doing I want to make sure I'm retaining the information that is here.
 
 ---
+
+Day 16
+
+Today I have come down with a fever and started to get sick.  I wont code tonight and I will be in bed early.  I thought I was in the clear after I went a couple days after my daughter got sick, but today it got me.  I'll take some meds get some extra rest and be back at it tomorrow.  Yesterday I ended up getting everything setup and pushed to github to build out the weather app on my own.  I'll watch some videos as refreshers on my lunch break at work and then see if I can get it built out by myself.
+
+---

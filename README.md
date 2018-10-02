@@ -112,3 +112,9 @@ Day 16
 Today I have come down with a fever and started to get sick.  I wont code tonight and I will be in bed early.  I thought I was in the clear after I went a couple days after my daughter got sick, but today it got me.  I'll take some meds get some extra rest and be back at it tomorrow.  Yesterday I ended up getting everything setup and pushed to github to build out the weather app on my own.  I'll watch some videos as refreshers on my lunch break at work and then see if I can get it built out by myself.
 
 ---
+
+Day 17
+
+Still not feeling the best, but I did get some time in to code.  I decided to work a little on my weather app tonight.  I got the api hooked up to pull the lat and lng from mapquest.  I have it pushed up to github and tomorrow I will start working on the rest.  I wanted to do more tonight, but I need to get some more sleep to hopefully fully beat this sickness.
+
+---

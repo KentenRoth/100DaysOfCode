@@ -118,3 +118,9 @@ Day 17
 Still not feeling the best, but I did get some time in to code.  I decided to work a little on my weather app tonight.  I got the api hooked up to pull the lat and lng from mapquest.  I have it pushed up to github and tomorrow I will start working on the rest.  I wanted to do more tonight, but I need to get some more sleep to hopefully fully beat this sickness.
 
 ---
+
+Day 18
+
+Today I got a little coding in on my lunch break from work and then a little more coding done in the evening.  I hooked up the weather part of the weather app.  This is the part that pulls from the dark sky api by using the lat and lng from mapquest.  Next I want to figure out how to get the forcast for the next few days.  I am not 100% sure how to do that but that will be the next part of my project.  I also, am ready to get started on the testing portion of the course.  I have seen a lot of stuff about testing but do not know anything about it or how to set it up.
+
+---

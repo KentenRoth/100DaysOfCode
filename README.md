@@ -124,3 +124,9 @@ Day 18
 Today I got a little coding in on my lunch break from work and then a little more coding done in the evening.  I hooked up the weather part of the weather app.  This is the part that pulls from the dark sky api by using the lat and lng from mapquest.  Next I want to figure out how to get the forcast for the next few days.  I am not 100% sure how to do that but that will be the next part of my project.  I also, am ready to get started on the testing portion of the course.  I have seen a lot of stuff about testing but do not know anything about it or how to set it up.
 
 ---
+
+Day 19
+
+Today was just a lot of frustration and I think I need to walk away from the computer for a little while.  I have spent a decent amount of time trying to figure out how to loop over the resutls coming back from my forcast to get all 7 days and I cannot get it to work correctly.  I really dont see what I am missing right now and its extemely frustrating.  I feel like this is something that I should be able to code up without an issue, but for some reason something is off and just is not clicking right now.
+
+---

@@ -127,6 +127,6 @@ Today I got a little coding in on my lunch break from work and then a little mor
 
 Day 19
 
-Today was just a lot of frustration and I think I need to walk away from the computer for a little while.  I have spent a decent amount of time trying to figure out how to loop over the resutls coming back from my forcast to get all 7 days and I cannot get it to work correctly.  I really dont see what I am missing right now and its extemely frustrating.  I feel like this is something that I should be able to code up without an issue, but for some reason something is off and just is not clicking right now.
+Today was just a lot of frustration and I think I need to walk away from the computer for a little while.  I have spent a decent amount of time trying to figure out how to loop over the resutls coming back from my forcast to get all 7 days and I cannot get it to work correctly.  I really dont see what I am missing right now and its extremely frustrating.  I feel like this is something that I should be able to code up without an issue, but for some reason something is off and just is not clicking right now.  
 
 ---

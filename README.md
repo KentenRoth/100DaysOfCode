@@ -130,3 +130,9 @@ Day 19
 Today was just a lot of frustration and I think I need to walk away from the computer for a little while.  I have spent a decent amount of time trying to figure out how to loop over the resutls coming back from my forcast to get all 7 days and I cannot get it to work correctly.  I really dont see what I am missing right now and its extremely frustrating.  I feel like this is something that I should be able to code up without an issue, but for some reason something is off and just is not clicking right now.  
 
 ---
+
+Day 20
+
+Due to storms in the area I was not able to get in much time for code.  I did spend time on my phone looking at different open source things.  I want to get into doing open source once I get more comfortable with coding, so I spent time looking at how all that works.  Still not really sure I got the full grasp on how to do it, but once I get a little more coding under my belt (around the end of this 100 days) I want to start contributing to open source projects.  I think that will help me build on what I know and also help me when I start applying for a new job.
+
+---

@@ -136,3 +136,9 @@ Day 20
 Due to storms in the area I was not able to get in much time for code.  I did spend time on my phone looking at different open source things.  I want to get into doing open source once I get more comfortable with coding, so I spent time looking at how all that works.  Still not really sure I got the full grasp on how to do it, but once I get a little more coding under my belt (around the end of this 100 days) I want to start contributing to open source projects.  I think that will help me build on what I know and also help me when I start applying for a new job.
 
 ---
+
+Day 21
+
+Almost forgot to update this repo today.  I spent more time working on getting the weather app to do what I want, but still did not get it working right.  I feel better about what I did even though it is not working.  Also, spent more time making API calls to different APIs to help burn into the brain of how it is done without refering to code.  Then I spent some time watching videos on open source and I'm starting to think that it is a little farther out of my skill level than I realized.  I would still like to partake in open source, but it might be a little farther down the line.  Tomorrow I think I am going to jump over the testing part and get everything to learn mongoDB setup.  I will come back to testing once I finish off the course.  I want to have a couple different projects to apply testing to so that is my reasoning for coming back to it later.
+
+---

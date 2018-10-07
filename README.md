@@ -142,3 +142,9 @@ Day 21
 Almost forgot to update this repo today.  I spent more time working on getting the weather app to do what I want, but still did not get it working right.  I feel better about what I did even though it is not working.  Also, spent more time making API calls to different APIs to help burn into the brain of how it is done without refering to code.  Then I spent some time watching videos on open source and I'm starting to think that it is a little farther out of my skill level than I realized.  I would still like to partake in open source, but it might be a little farther down the line.  Tomorrow I think I am going to jump over the testing part and get everything to learn mongoDB setup.  I will come back to testing once I finish off the course.  I want to have a couple different projects to apply testing to so that is my reasoning for coming back to it later.
 
 ---
+
+Day 22
+
+Today was very uneventful.  I got everything setup for MongoDB and got everything running.  It took a little longer that I wanted it to, but I got it done.  Also, spen a little more time looking into my issue with my weather app and still could not get it going as expected.  I think I am offically calling it quits on that silly issue and move one then come back to it at a later time.  Tomorrow I will be ready to go fully into Mongo and learn how that works.
+
+---

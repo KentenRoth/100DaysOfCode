@@ -148,3 +148,9 @@ Day 22
 Today was very uneventful.  I got everything setup for MongoDB and got everything running.  It took a little longer that I wanted it to, but I got it done.  Also, spen a little more time looking into my issue with my weather app and still could not get it going as expected.  I think I am offically calling it quits on that silly issue and move one then come back to it at a later time.  Tomorrow I will be ready to go fully into Mongo and learn how that works.
 
 ---
+
+Day 23
+
+Today I did not get much time to put into coding.  I only got about 30-45 minutes.  I had more time set aside, but my mouse was dead when I when to jump on and code so I had to get some life pushed back into it before I could get started.  Not really sure how it happened because I do not remember getting a notification yesterday saying the mouse battery was low and I do not remember the widget at the top coming up showing a low mouse battery.  They might have been there but I do not recall.  Not a whole lot I can do about it now other than charge it the rest of the way over night and get back at it tomorrow.  I have a larger chunk of time set aside to code tomorrow.
+
+---

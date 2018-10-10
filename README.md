@@ -160,3 +160,9 @@ Day 24
 Today was cut a little short due to stoms again.  It has been raining on a daily basis the last couple weeks.  I usually shut everything down during major storms so once again that is what I will have to do tonight.  I got started with MongoDB and really want to keep going, but the weather wont let me.  Tomorrow I only work half a day so I will use that extra time to get more done.
 
 ---
+
+Day 25
+
+Today was a very good day.  I am really getting into MongoDB and enjoying it.  I have had a project idea for a while and from what I am learning right now I can really see how I could get this project put together from start to finish.  I am not sure how the UI will look or how I would design it, but knowing how the database part would work and look and how to connect to it is really making it feel like this project will be something I could work on from start to finish a lot sooner.  Hopefully I can also add a login and database to my simple garden app that I built as practice before I dive into the deep end of the larger project I want to build that I would share with my family and friends.
+
+---

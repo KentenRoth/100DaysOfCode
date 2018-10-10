@@ -154,3 +154,9 @@ Day 23
 Today I did not get much time to put into coding.  I only got about 30-45 minutes.  I had more time set aside, but my mouse was dead when I when to jump on and code so I had to get some life pushed back into it before I could get started.  Not really sure how it happened because I do not remember getting a notification yesterday saying the mouse battery was low and I do not remember the widget at the top coming up showing a low mouse battery.  They might have been there but I do not recall.  Not a whole lot I can do about it now other than charge it the rest of the way over night and get back at it tomorrow.  I have a larger chunk of time set aside to code tomorrow.
 
 ---
+
+Day 24
+
+Today was cut a little short due to stoms again.  It has been raining on a daily basis the last couple weeks.  I usually shut everything down during major storms so once again that is what I will have to do tonight.  I got started with MongoDB and really want to keep going, but the weather wont let me.  Tomorrow I only work half a day so I will use that extra time to get more done.
+
+---

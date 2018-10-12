@@ -166,3 +166,9 @@ Day 25
 Today was a very good day.  I am really getting into MongoDB and enjoying it.  I have had a project idea for a while and from what I am learning right now I can really see how I could get this project put together from start to finish.  I am not sure how the UI will look or how I would design it, but knowing how the database part would work and look and how to connect to it is really making it feel like this project will be something I could work on from start to finish a lot sooner.  Hopefully I can also add a login and database to my simple garden app that I built as practice before I dive into the deep end of the larger project I want to build that I would share with my family and friends.
 
 ---
+
+Day 26
+
+I did not code much tonight.  I am extremely tired from work and getting up earlier than normal.  I did get some time in, but it didn't feel like enough.  I have also started to notice that my computer is bogging down with the mongo stuff I have been doing.  I have 2 terminal windows open, udemy video playing, robo t3, and VS code and there are moments that my computer just stops for a couple seconds before it kicks back in.  I know my iMac is old (mid 2011) but I was really wanting to push off getting a new one until I finally got a new job.
+
+---

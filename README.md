@@ -172,3 +172,9 @@ Day 26
 I did not code much tonight.  I am extremely tired from work and getting up earlier than normal.  I did get some time in, but it didn't feel like enough.  I have also started to notice that my computer is bogging down with the mongo stuff I have been doing.  I have 2 terminal windows open, udemy video playing, robo t3, and VS code and there are moments that my computer just stops for a couple seconds before it kicks back in.  I know my iMac is old (mid 2011) but I was really wanting to push off getting a new one until I finally got a new job.
 
 ---
+
+Day 27
+
+Today went well, and I got in a decent amount of time for coding.  I hope tomorrow that I can get more time in, but we are having my daughters birthday party.  I am still really feeling good about mongoDB and part of me wants to jump ahead and start on a couple projects for it.  I have to keep convincing myself to not do that and to take my time to make sure I know what is going on before I jump off learning and hitting a project hard myself.
+
+---

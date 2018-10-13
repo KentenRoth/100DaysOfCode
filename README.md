@@ -178,3 +178,9 @@ Day 27
 Today went well, and I got in a decent amount of time for coding.  I hope tomorrow that I can get more time in, but we are having my daughters birthday party.  I am still really feeling good about mongoDB and part of me wants to jump ahead and start on a couple projects for it.  I have to keep convincing myself to not do that and to take my time to make sure I know what is going on before I jump off learning and hitting a project hard myself.
 
 ---
+
+Day 28
+
+I got up early today to get some coding in before anyone got out of bed.  I feel really good about mongo and the next step is to see how mongoose can fit in and make everything run together.  I really hope that maybe after I get this section done I could start a project!  I have a couple ideas and hopefully I can get them to come together and push them live.  I still plan on learning SQL, but I want to get my projects pushed live before that.  I might end up pushing SQL to my next 100 days of code so I can start building on my projects.
+
+---

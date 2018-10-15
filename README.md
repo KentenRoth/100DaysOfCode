@@ -184,3 +184,9 @@ Day 28
 I got up early today to get some coding in before anyone got out of bed.  I feel really good about mongo and the next step is to see how mongoose can fit in and make everything run together.  I really hope that maybe after I get this section done I could start a project!  I have a couple ideas and hopefully I can get them to come together and push them live.  I still plan on learning SQL, but I want to get my projects pushed live before that.  I might end up pushing SQL to my next 100 days of code so I can start building on my projects.
 
 ---
+
+Day 29
+
+I got in a good amount of coding today.  Don't feel like i progressed much, but i did fix some issues and errors that i was running into.  Felt good to knocj out bugs without using google.
+
+---

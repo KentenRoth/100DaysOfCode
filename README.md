@@ -187,7 +187,7 @@ I got up early today to get some coding in before anyone got out of bed.  I feel
 
 Day 29
 
-I got in a good amount of coding today.  Don't feel like i progressed much, but i did fix some issues and errors that i was running into.  Felt good to knocj out bugs without using google.
+I got in a good amount of coding today.  Don't feel like i progressed much, but i did fix some issues and errors that i was running into.  Felt good to knock out bugs without using google.
 
 ---
 

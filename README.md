@@ -196,3 +196,9 @@ Day 30
 Today is my daughters birthday so I did not get any coding in.
 
 ---
+
+Day 31
+
+Today I moved back to the testing section.  I got to a spot where there was going to be testing implimented into the current project and I got confused.  So Maybe I shouldn't have skipped past the testing after all.  I wanted to do it last, but it looks like I'll be doing it now.  
+
+---

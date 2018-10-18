@@ -208,3 +208,9 @@ Day 32
 Tonight I did not code.  We did family pictures then after we got home we spent some time together and played games.  It was a much needed night of spending time with the family, but back to business tomorrow.
 
 ---
+
+Day 33
+
+Today I dove back into the testing portion of the course and I'm not really sure if things are getting put together right in my head or not.  It seemed a little to straight forward for all the horror stories I have heard about testing.  So I'm going to spend some time reading up on more stuff tonight and I should have the testing part knocked out tomorrow, then it's back to some Mongo.
+
+---

@@ -202,3 +202,9 @@ Day 31
 Today I moved back to the testing section.  I got to a spot where there was going to be testing implimented into the current project and I got confused.  So Maybe I shouldn't have skipped past the testing after all.  I wanted to do it last, but it looks like I'll be doing it now.  
 
 ---
+
+Day 32
+
+Tonight I did not code.  We did family pictures then after we got home we spent some time together and played games.  It was a much needed night of spending time with the family, but back to business tomorrow.
+
+---

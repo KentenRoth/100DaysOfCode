@@ -214,3 +214,9 @@ Day 33
 Today I dove back into the testing portion of the course and I'm not really sure if things are getting put together right in my head or not.  It seemed a little to straight forward for all the horror stories I have heard about testing.  So I'm going to spend some time reading up on more stuff tonight and I should have the testing part knocked out tomorrow, then it's back to some Mongo.
 
 ---
+
+Day 34
+
+Today was very frustrating.  I spent almost all of my coding time trying to figure out the issue with my iMac.  It was getting to the point of random freezes every 3-4 minutes.  I have been on google and trying different things to fix the issue.  I am going to stay up later than normal tonight to see if I can get this issue resolved.
+
+---

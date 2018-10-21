@@ -226,3 +226,9 @@ Day 35
 Today I continued working on solving the issue with my computer.  The issue has not been resolved, but I decided I'll just deal with it until it gets really bad, or I can get a new computer.  I did finish off the testing portion of the course and I hit the spot that was very confusing.  The first part was straight forward, but what I finished off today was more difficult with spys and how they work.  Don't really understand it, but I will do some more reading and hit the documentation tonight.  Tomorrow I will get back into mongo part of the course.
 
 ---
+
+Day 36
+
+I am posting a little early today, but I plan on coding more later tonight also.  I still did not get the computer issue fixed, but spent the day coding and just dealing with the hangups.  I think once I get done with watching the course videos everything should run smoother.  I hit some post and get requests and wrote tests for both.  Tonight I will move on to doing mongoose queries and id validations.  Also, I plan on doing a get by id number and setting up the test for that.  Once I get to the point of deploying and get an understanding of an easy way to build out the database while its deployed I think I will start building out the database for 2 of my 3 projects.
+
+---

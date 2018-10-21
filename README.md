@@ -220,3 +220,9 @@ Day 34
 Today was very frustrating.  I spent almost all of my coding time trying to figure out the issue with my iMac.  It was getting to the point of random freezes every 3-4 minutes.  I have been on google and trying different things to fix the issue.  I am going to stay up later than normal tonight to see if I can get this issue resolved.
 
 ---
+
+Day 35
+
+Today I continued working on solving the issue with my computer.  The issue has not been resolved, but I decided I'll just deal with it until it gets really bad, or I can get a new computer.  I did finish off the testing portion of the course and I hit the spot that was very confusing.  The first part was straight forward, but what I finished off today was more difficult with spys and how they work.  Don't really understand it, but I will do some more reading and hit the documentation tonight.  Tomorrow I will get back into mongo part of the course.
+
+---

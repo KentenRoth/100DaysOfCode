@@ -232,3 +232,9 @@ Day 36
 I am posting a little early today, but I plan on coding more later tonight also.  I still did not get the computer issue fixed, but spent the day coding and just dealing with the hangups.  I think once I get done with watching the course videos everything should run smoother.  I hit some post and get requests and wrote tests for both.  Tonight I will move on to doing mongoose queries and id validations.  Also, I plan on doing a get by id number and setting up the test for that.  Once I get to the point of deploying and get an understanding of an easy way to build out the database while its deployed I think I will start building out the database for 2 of my 3 projects.
 
 ---
+
+Day 37
+
+I spent tonight working on git.  I did a tutorial for my first PR but used github desktop.  I was having issues with the command line and had to do some searching to get that working correctly again.  I rarely use the command line, so I did a little learning about that to get a better understanding of how it works.  I know there is still a long way I need to go to get comfortable using the command line for git.  I also, did some work to my resume tonight.  I am going to post my resume on my profiles I have setup for finding a new job.  I wont be applying just yet, but getting an updated resume out there can't be a bad thing.
+
+---

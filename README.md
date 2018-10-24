@@ -238,3 +238,9 @@ Day 37
 I spent tonight working on git.  I did a tutorial for my first PR but used github desktop.  I was having issues with the command line and had to do some searching to get that working correctly again.  I rarely use the command line, so I did a little learning about that to get a better understanding of how it works.  I know there is still a long way I need to go to get comfortable using the command line for git.  I also, did some work to my resume tonight.  I am going to post my resume on my profiles I have setup for finding a new job.  I wont be applying just yet, but getting an updated resume out there can't be a bad thing.
 
 ---
+
+Day 38
+
+I did not code tonight.  I was working on buiding an indoor garden box so I can grow Leaks, green onions, and red onions over the winter.  I have been pushing off building it for a while and it needed to get done today.  Came out good and now I just need to get some dirt in it and get things planted.  Tomorrow its back to coding.  I think I might do another open source tutorial using just the command line now that I got git working with my terminal.
+
+---

@@ -250,3 +250,9 @@ Day 39
 I managed to sneak some coding time in tonight.  Wednesday is the most difficult day of the week for me to get on my computer, but I was able to do it tonight!  I spent a lot of time trying to get things to work and do what I wanted them to do, but I was running into an error over and over.  I could not figure out what was going on and why it was not working.  That is when I remembered that I wiped my MongoDB install and re-installed it.  The DB that I was trying to pull info from had been wiped...  I added things back into it and my code worked!  Don't feel to great about how long it toook me to remember that, but I guess at the end of the day it works. 
 
 ---
+
+Day 40
+
+I had a great night coding.  I stumbled a little during the first challenge of the course, but got it worked out quickly.  After that I felt like when the challenges where being explained I was already figuring out how I was going to attack the challenge and what I needed to do.  I was picturing what the code would need to do and how it should be setup and working my way through it.  Something about knocking out the coding challenges without even thinking about looking it up felt really good.  I feel like I am either starting to get this stuff figured out or maybe I was just in the zone tonight.  I am really excited to get back into this tomorrow, but I know tomorrow is another day I struggle to get time in to code due to things going on.
+
+---

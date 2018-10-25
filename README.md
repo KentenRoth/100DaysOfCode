@@ -244,3 +244,9 @@ Day 38
 I did not code tonight.  I was working on buiding an indoor garden box so I can grow Leaks, green onions, and red onions over the winter.  I have been pushing off building it for a while and it needed to get done today.  Came out good and now I just need to get some dirt in it and get things planted.  Tomorrow its back to coding.  I think I might do another open source tutorial using just the command line now that I got git working with my terminal.
 
 ---
+
+Day 39
+
+I managed to sneak some coding time in tonight.  Wednesday is the most difficult day of the week for me to get on my computer, but I was able to do it tonight!  I spent a lot of time trying to get things to work and do what I wanted them to do, but I was running into an error over and over.  I could not figure out what was going on and why it was not working.  That is when I remembered that I wiped my MongoDB install and re-installed it.  The DB that I was trying to pull info from had been wiped...  I added things back into it and my code worked!  Don't feel to great about how long it toook me to remember that, but I guess at the end of the day it works. 
+
+---

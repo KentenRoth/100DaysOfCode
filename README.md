@@ -256,3 +256,9 @@ Day 40
 I had a great night coding.  I stumbled a little during the first challenge of the course, but got it worked out quickly.  After that I felt like when the challenges where being explained I was already figuring out how I was going to attack the challenge and what I needed to do.  I was picturing what the code would need to do and how it should be setup and working my way through it.  Something about knocking out the coding challenges without even thinking about looking it up felt really good.  I feel like I am either starting to get this stuff figured out or maybe I was just in the zone tonight.  I am really excited to get back into this tomorrow, but I know tomorrow is another day I struggle to get time in to code due to things going on.
 
 ---
+
+Day 41
+
+Tonight didn't go so well. I finally got to a point that I could code I am extremely tired and was having a hard time keeping focus.  Today was a crazy busy day at work and playing with my daughter after work really drained me.  I got a little coding in, but I think I am going to head to bed and do a little reading/research before I go to sleep.  Tomorrow I should be up before everyone like usual unless my daughter gets up earlier than normal.  I like to spend that morning time coding.  Something about coding in the morning that just really helps me zone in and focus.  
+
+---

@@ -262,3 +262,9 @@ Day 41
 Tonight didn't go so well. I finally got to a point that I could code I am extremely tired and was having a hard time keeping focus.  Today was a crazy busy day at work and playing with my daughter after work really drained me.  I got a little coding in, but I think I am going to head to bed and do a little reading/research before I go to sleep.  Tomorrow I should be up before everyone like usual unless my daughter gets up earlier than normal.  I like to spend that morning time coding.  Something about coding in the morning that just really helps me zone in and focus.  
 
 ---
+
+Day 42
+
+This morning was a morning full of errors or issues.  I worked threw all of them and get some stuff done.  What I feel like should have taken 30 mintues or so took almost 2 hours.  So that was awesome.  More coding later I will update the repo with a Day 42.5 later today!
+
+---

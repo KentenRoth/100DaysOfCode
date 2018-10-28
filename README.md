@@ -272,3 +272,9 @@ Day 42.5
 I got a little coding in during that afternoon and a little more in this evening.  I am going to call it a night earlier than normal to spend a little time with the family.  Today was overall good.  Had the issues this AM, but got things working as expected.  I am feeling really good about building things with Mongo and I plan on building out a DB on my own over the course of the week.  I think I should be able to knock it out.  The thing that I think will take the longest is getting the data entered into postman and sent to the DB.  I will also, keep moving forward and learning while building out the DB.
 
 ---
+
+Day 43
+
+Today when I sat down to learn and code my head wasn't really into it.  I know this is important so I know days feeling like this I still need to do what I know I need to do.  Once I get sat down and started going through code and learning everything settled back into normal.  I created a new repo and I am going to start working on a database for an app I want to build.  I am going to setup an app that I can keep track of information from books that I have read.  I will keep track of Title, Author, Pages, Snippets, and a short review.  I think I know how to do everything except for how I would do multiple snippets.  I will have to do a little research and some trial and error to get it working.  Overall I am happy with how the weekend went and what I got done.  I did not fall into the video game or youtube loop of time wasting even though I did do some of both of those.
+
+---

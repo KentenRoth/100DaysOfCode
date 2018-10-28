@@ -267,4 +267,8 @@ Day 42
 
 This morning was a morning full of errors or issues.  I worked threw all of them and get some stuff done.  What I feel like should have taken 30 mintues or so took almost 2 hours.  So that was awesome.  More coding later I will update the repo with a Day 42.5 later today!
 
+Day 42.5
+
+I got a little coding in during that afternoon and a little more in this evening.  I am going to call it a night earlier than normal to spend a little time with the family.  Today was overall good.  Had the issues this AM, but got things working as expected.  I am feeling really good about building things with Mongo and I plan on building out a DB on my own over the course of the week.  I think I should be able to knock it out.  The thing that I think will take the longest is getting the data entered into postman and sent to the DB.  I will also, keep moving forward and learning while building out the DB.
+
 ---

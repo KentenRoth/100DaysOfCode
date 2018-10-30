@@ -278,3 +278,9 @@ Day 43
 Today when I sat down to learn and code my head wasn't really into it.  I know this is important so I know days feeling like this I still need to do what I know I need to do.  Once I get sat down and started going through code and learning everything settled back into normal.  I created a new repo and I am going to start working on a database for an app I want to build.  I am going to setup an app that I can keep track of information from books that I have read.  I will keep track of Title, Author, Pages, Snippets, and a short review.  I think I know how to do everything except for how I would do multiple snippets.  I will have to do a little research and some trial and error to get it working.  Overall I am happy with how the weekend went and what I got done.  I did not fall into the video game or youtube loop of time wasting even though I did do some of both of those.
 
 ---
+
+Day 44
+
+Today I did the initial setup on my book app.  I did all the boilerplate stuff by downloading the npm packages, and getting the models set up.  Tomorrow I plan on starting to build things out, and get a little more depth to it.  I was working in the development branch I created but some how I merged it into the master branch.  Not really sure whats going on over here on github.  Totally on the struggle bus as of right now.
+
+---

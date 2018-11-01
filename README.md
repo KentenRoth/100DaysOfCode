@@ -290,3 +290,9 @@ Day 45
 Today I got the POST and GET hooked up on my book app.  I don't think it should have taken as long as it did (I feel like I say that a lot), but I ran into an issue and things where just broken and I couldn't find it.  I am doing as much as I can without looking at the code I typed for my course and using other resources.  I spent some time looking things over and everything seemed to look right.  Turns out I had misspelled 2 words.  Guess those 2 words could break a lot of stuff.  Once I got that all resolved everything worked as expected and ran smooth.  I am starting to feel really good about how things are going.  
 
 ---
+
+Day 46
+
+I didn't code tonight.  I forgot it was Halloween and spent the evening with family.
+
+---

@@ -296,3 +296,9 @@ Day 46
 I didn't code tonight.  I forgot it was Halloween and spent the evening with family.
 
 ---
+
+Day 47
+
+I feel great about tonight!!!  I had a goal of figuring out how to get my mongoose model to return an array of objects, and I accomplished it!  I had an idea of how to do it and well I was wrong, but I went to the documentation and found my answer by reading documentation.  It might be normal for a lot of people to do that, but for me that is something that is very rare.  I go into the documentation and come out just as confused as when I started.  Then after getting that task figured out and completed I got everything hooked up so it would save and I could get my input returned.  That was another task that I figured out on my own by some trial and error.  So now the last thing I need to do for the backend of my book-app is to set up some testing!  That is my goal for tomorrow night.  Then I can merge it into the master branch and continue on with my learning!  Excitement level is extremely high tonight!
+
+---

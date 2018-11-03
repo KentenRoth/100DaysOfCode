@@ -302,3 +302,9 @@ Day 47
 I feel great about tonight!!!  I had a goal of figuring out how to get my mongoose model to return an array of objects, and I accomplished it!  I had an idea of how to do it and well I was wrong, but I went to the documentation and found my answer by reading documentation.  It might be normal for a lot of people to do that, but for me that is something that is very rare.  I go into the documentation and come out just as confused as when I started.  Then after getting that task figured out and completed I got everything hooked up so it would save and I could get my input returned.  That was another task that I figured out on my own by some trial and error.  So now the last thing I need to do for the backend of my book-app is to set up some testing!  That is my goal for tomorrow night.  Then I can merge it into the master branch and continue on with my learning!  Excitement level is extremely high tonight!
 
 ---
+
+Day 48
+
+Today was rough.  I am not sure if it was because I was tired when I sat down to code or if I was just that lost with testing.  I spent a little over 2 hours trying to get one of my tests to pass.  I went over every line of code multiple times, I watched a couple of the testing videos from my course, and I googled stuff.  All of these things combine and I still was running into the same error.  It turned into me commenting out chuncks of code to locate the problem, and once I found the problem I had to figure out how to fix it.  After a while I finally got the test to pass then ran into issues on the 2nd test.  That test I figured out a lot faster because I noticed I used the word 'require' instead of 'required'.  Tomorrow I will continue on with my tests and hope they run much smoother.
+
+---

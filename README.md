@@ -308,3 +308,9 @@ Day 48
 Today was rough.  I am not sure if it was because I was tired when I sat down to code or if I was just that lost with testing.  I spent a little over 2 hours trying to get one of my tests to pass.  I went over every line of code multiple times, I watched a couple of the testing videos from my course, and I googled stuff.  All of these things combine and I still was running into the same error.  It turned into me commenting out chuncks of code to locate the problem, and once I found the problem I had to figure out how to fix it.  After a while I finally got the test to pass then ran into issues on the 2nd test.  That test I figured out a lot faster because I noticed I used the word 'require' instead of 'required'.  Tomorrow I will continue on with my tests and hope they run much smoother.
 
 ---
+
+Day 49
+
+Today was good.  I cut my time a little short due to a headache.  I am cutting back on the amount of soda I drink and I am really feeling the effects tonight.  I was good most of the day, but as the day has been moving along I can feel my body wanting more.  Tonight I finished off getting my tests finished for GET by id and DELETE by id on the book app.  I need to write the PATCH and the PATCH tests tomorrow then the backend of the book app will be finished.  Now I want to build the backend for my garden app.  I hope I can knock out a huge portion of that tomorrow.  After I get the garden app backend done I will move on to learn how to add login features and security.
+
+---

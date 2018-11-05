@@ -314,3 +314,9 @@ Day 49
 Today was good.  I cut my time a little short due to a headache.  I am cutting back on the amount of soda I drink and I am really feeling the effects tonight.  I was good most of the day, but as the day has been moving along I can feel my body wanting more.  Tonight I finished off getting my tests finished for GET by id and DELETE by id on the book app.  I need to write the PATCH and the PATCH tests tomorrow then the backend of the book app will be finished.  Now I want to build the backend for my garden app.  I hope I can knock out a huge portion of that tomorrow.  After I get the garden app backend done I will move on to learn how to add login features and security.
 
 ---
+
+Day 50
+
+We are at the half way mark and I feel pretty good about what I have accomplished.  I missed a few days along the way, but I am happy with the results for the most part.  Today I finished off the parts I needed to get done on the book app.  I ran into some issues with the testing.  I am using the old version of expect so I couldn't find the documentation I need to get the test 100% how I wanted, but it is all working.  I added the patch feature, but I did not start the backend for the garden app.  I am not really sure how I am going to do it just yet.  I am going to end up reworking the entire thing so I am not sure if I should start a whole new project or if I should start making changes in other branches.  Tomorrow I will start on learning the login feature and how to add security to the projects.
+
+---

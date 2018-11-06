@@ -320,3 +320,9 @@ Day 50
 We are at the half way mark and I feel pretty good about what I have accomplished.  I missed a few days along the way, but I am happy with the results for the most part.  Today I finished off the parts I needed to get done on the book app.  I ran into some issues with the testing.  I am using the old version of expect so I couldn't find the documentation I need to get the test 100% how I wanted, but it is all working.  I added the patch feature, but I did not start the backend for the garden app.  I am not really sure how I am going to do it just yet.  I am going to end up reworking the entire thing so I am not sure if I should start a whole new project or if I should start making changes in other branches.  Tomorrow I will start on learning the login feature and how to add security to the projects.
 
 ---
+
+Day 51
+
+Today I didn't get much done.  Work was crazy busy and with the time change I was up an hour before normal, so I am extremely tired.  I will be off a little earlier tomorrow so I will start coding a little earlier in the evening and get more done.  I hope I do not wake up at 4:30 am again...
+
+---

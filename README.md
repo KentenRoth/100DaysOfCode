@@ -326,3 +326,9 @@ Day 51
 Today I didn't get much done.  Work was crazy busy and with the time change I was up an hour before normal, so I am extremely tired.  I will be off a little earlier tomorrow so I will start coding a little earlier in the evening and get more done.  I hope I do not wake up at 4:30 am again...
 
 ---
+
+Day 52
+
+Today I setup a repo for a challenge website that I am considering.  I have a course on udemy that does monthly challenges.  This month is a challenge to build a website from a set design with the graphics provided.  I am not sure when I will sneak in the time for that with the holidays coming up.  I spent time tonight also doing some of the login and security section of the course I have been working on.  There are a few things I want to do, but I feel like there is never enough time in the day.  I am working on finding more ways to get coding time and it might result in earlier mornings.
+
+---

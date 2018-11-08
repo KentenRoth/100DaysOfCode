@@ -332,3 +332,9 @@ Day 52
 Today I setup a repo for a challenge website that I am considering.  I have a course on udemy that does monthly challenges.  This month is a challenge to build a website from a set design with the graphics provided.  I am not sure when I will sneak in the time for that with the holidays coming up.  I spent time tonight also doing some of the login and security section of the course I have been working on.  There are a few things I want to do, but I feel like there is never enough time in the day.  I am working on finding more ways to get coding time and it might result in earlier mornings.
 
 ---
+
+Day 52
+
+I deployed my Book-App database and started to fill in the content.  I also, spent time working on my resume and spent some time going over my portfolio website to see what changes I need to make.  I found a job that I want to apply for so I am just going to shoot my shot and see what happens.  I want the position, and I will never know if I don't apply.  Other than that little bit I didn't get a whole lot done on the coding side of things.  Tomorrow I will write out the cover letter and officially apply for the job then get back into learning more about security and login stuff.
+
+---

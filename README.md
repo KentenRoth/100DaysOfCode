@@ -338,3 +338,9 @@ Day 52
 I deployed my Book-App database and started to fill in the content.  I also, spent time working on my resume and spent some time going over my portfolio website to see what changes I need to make.  I found a job that I want to apply for so I am just going to shoot my shot and see what happens.  I want the position, and I will never know if I don't apply.  Other than that little bit I didn't get a whole lot done on the coding side of things.  Tomorrow I will write out the cover letter and officially apply for the job then get back into learning more about security and login stuff.
 
 ---
+
+Day 53
+
+Applying took longer than I thought it would.  I'm still not confident in my cover letter writing ability.  I did officially apply for the position so only positive thoughts about it from here on out!!!  I did some more of the security stuff, but I didn't get as much time as I wanted.  Tomorrow I am not sure if I will really dive into building that website mockup or I will save that for the weekend.  I am really wanting to do it, but I also want to keep moving forward with what I am doing.  Might come down to a coin flip tomorrow.  
+
+---

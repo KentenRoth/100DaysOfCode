@@ -344,3 +344,9 @@ Day 53
 Applying took longer than I thought it would.  I'm still not confident in my cover letter writing ability.  I did officially apply for the position so only positive thoughts about it from here on out!!!  I did some more of the security stuff, but I didn't get as much time as I wanted.  Tomorrow I am not sure if I will really dive into building that website mockup or I will save that for the weekend.  I am really wanting to do it, but I also want to keep moving forward with what I am doing.  Might come down to a coin flip tomorrow.  
 
 ---
+
+Day 54
+
+Tonight I did not get any coding in.  I dont like nights that I don't code.  We had our first snow today and work was extremely busy, and I am completely drained.  I feel lucky that I was up late enough to put my 4 year old to bed.  I will be up early tomorrow and start working on the challenge site, and will also get time in tomorrow night.
+
+---

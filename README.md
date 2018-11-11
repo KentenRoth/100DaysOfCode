@@ -350,3 +350,9 @@ Day 54
 Tonight I did not get any coding in.  I dont like nights that I don't code.  We had our first snow today and work was extremely busy, and I am completely drained.  I feel lucky that I was up late enough to put my 4 year old to bed.  I will be up early tomorrow and start working on the challenge site, and will also get time in tomorrow night.
 
 ---
+
+Day 55
+
+I wanted to get up before everyone else, but when I was making my morning coffee my daughter walked out of her room.  Guess she had the same idea as me.  I did some how manage to get her down for a nap so I got some coding in there, and I got a chunk of coding in tonight.  I finished the first two sections of the challenge website and I hope I can get it finished off tomorrow.  I spend a lot of time trying to get the spacing just right and it is making it take longer than I thought it would.  So far I feel good about how it looks though.
+
+---

@@ -356,3 +356,9 @@ Day 55
 I wanted to get up before everyone else, but when I was making my morning coffee my daughter walked out of her room.  Guess she had the same idea as me.  I did some how manage to get her down for a nap so I got some coding in there, and I got a chunk of coding in tonight.  I finished the first two sections of the challenge website and I hope I can get it finished off tomorrow.  I spend a lot of time trying to get the spacing just right and it is making it take longer than I thought it would.  So far I feel good about how it looks though.
 
 ---
+
+Day 56
+
+Today was a very good day.  I completed the challenge site for the udemy course.  I also, got my portfolio site updated and cleaned up a little bit.  I have started to not like the design all that much so maybe its time to start sketching out something new.  It's weird that I am thinking about building a new portfolio site when I really haven't even given this one out.  I spent a good chunk of today coding and really enjoyed the time.  I wish more days would be this productive and I would feel this good by the end of the day.  The next couple weekends I do not think I will get much time to code due to the holidays.  I will do my best to squeeze time in each day though.
+
+---

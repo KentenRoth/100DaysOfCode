@@ -362,3 +362,9 @@ Day 56
 Today was a very good day.  I completed the challenge site for the udemy course.  I also, got my portfolio site updated and cleaned up a little bit.  I have started to not like the design all that much so maybe its time to start sketching out something new.  It's weird that I am thinking about building a new portfolio site when I really haven't even given this one out.  I spent a good chunk of today coding and really enjoyed the time.  I wish more days would be this productive and I would feel this good by the end of the day.  The next couple weekends I do not think I will get much time to code due to the holidays.  I will do my best to squeeze time in each day though.
 
 ---
+
+Day 57
+
+Today I got some coding in on my lunch break and that was all I was able to get in.  I started to get a headache at work and I haven't been able to shake it.  I'm not sure if it just from a lack of soda because I am still working on kicking that, or if it was from not being use to this cold weather moving in.  Tomorrow I will finish off some of the spacing issues I noticed on the challenge site and then it should be officially done.  Thought I had it done, but it didn't look right on my phone so I need to get that fixed.
+
+---

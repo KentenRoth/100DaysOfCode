@@ -368,3 +368,9 @@ Day 57
 Today I got some coding in on my lunch break and that was all I was able to get in.  I started to get a headache at work and I haven't been able to shake it.  I'm not sure if it just from a lack of soda because I am still working on kicking that, or if it was from not being use to this cold weather moving in.  Tomorrow I will finish off some of the spacing issues I noticed on the challenge site and then it should be officially done.  Thought I had it done, but it didn't look right on my phone so I need to get that fixed.
 
 ---
+
+Day 58
+
+Tonight I didn't code because I got sucked into a video game.  Fallout 76 came out a day early and I got sucked into it.  I am off work the rest of the week so I will get in some extra coding tomorrow before I allow myself to play video games.
+
+---

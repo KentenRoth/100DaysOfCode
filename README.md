@@ -374,3 +374,9 @@ Day 58
 Tonight I didn't code because I got sucked into a video game.  Fallout 76 came out a day early and I got sucked into it.  I am off work the rest of the week so I will get in some extra coding tomorrow before I allow myself to play video games.
 
 ---
+
+Day 59
+
+Today I got my coding in early and I feel ok about it.  I ended up going over the stuff in the section I have been working on again.  I have spent the last few days working on the challenge site and applying for a job, so I felt out of sync with what was going on.  I got caught up with where I was and tomorrow or friday I will be pushing forward.  I am trying to decide if I should do a factory reset on my computer to see if that fixes the hiccup.  It has been getting worse, and I am starting to feel like that is my last option.  I will have to make sure I have space on external HDDs for everything, but I have several of them just hanging out so I should.
+
+---

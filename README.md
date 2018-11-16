@@ -380,3 +380,9 @@ Day 59
 Today I got my coding in early and I feel ok about it.  I ended up going over the stuff in the section I have been working on again.  I have spent the last few days working on the challenge site and applying for a job, so I felt out of sync with what was going on.  I got caught up with where I was and tomorrow or friday I will be pushing forward.  I am trying to decide if I should do a factory reset on my computer to see if that fixes the hiccup.  It has been getting worse, and I am starting to feel like that is my last option.  I will have to make sure I have space on external HDDs for everything, but I have several of them just hanging out so I should.
 
 ---
+
+Day 60
+
+After I did my coding today I felt rather confused.  I think I spent to much time trying to figure out the magic of how things worked.  I understood what was going on and understood the code, but I think I was trying to figure out the magic in the library I was using.  I will spend some time researching tonight, and I hope to have a moment of understanding.
+
+---

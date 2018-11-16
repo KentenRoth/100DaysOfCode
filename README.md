@@ -333,55 +333,55 @@ Today I setup a repo for a challenge website that I am considering.  I have a co
 
 ---
 
-Day 52
+Day 53
 
 I deployed my Book-App database and started to fill in the content.  I also, spent time working on my resume and spent some time going over my portfolio website to see what changes I need to make.  I found a job that I want to apply for so I am just going to shoot my shot and see what happens.  I want the position, and I will never know if I don't apply.  Other than that little bit I didn't get a whole lot done on the coding side of things.  Tomorrow I will write out the cover letter and officially apply for the job then get back into learning more about security and login stuff.
 
 ---
 
-Day 53
+Day 54
 
 Applying took longer than I thought it would.  I'm still not confident in my cover letter writing ability.  I did officially apply for the position so only positive thoughts about it from here on out!!!  I did some more of the security stuff, but I didn't get as much time as I wanted.  Tomorrow I am not sure if I will really dive into building that website mockup or I will save that for the weekend.  I am really wanting to do it, but I also want to keep moving forward with what I am doing.  Might come down to a coin flip tomorrow.  
 
 ---
 
-Day 54
+Day 55
 
 Tonight I did not get any coding in.  I dont like nights that I don't code.  We had our first snow today and work was extremely busy, and I am completely drained.  I feel lucky that I was up late enough to put my 4 year old to bed.  I will be up early tomorrow and start working on the challenge site, and will also get time in tomorrow night.
 
 ---
 
-Day 55
+Day 56
 
 I wanted to get up before everyone else, but when I was making my morning coffee my daughter walked out of her room.  Guess she had the same idea as me.  I did some how manage to get her down for a nap so I got some coding in there, and I got a chunk of coding in tonight.  I finished the first two sections of the challenge website and I hope I can get it finished off tomorrow.  I spend a lot of time trying to get the spacing just right and it is making it take longer than I thought it would.  So far I feel good about how it looks though.
 
 ---
 
-Day 56
+Day 57
 
 Today was a very good day.  I completed the challenge site for the udemy course.  I also, got my portfolio site updated and cleaned up a little bit.  I have started to not like the design all that much so maybe its time to start sketching out something new.  It's weird that I am thinking about building a new portfolio site when I really haven't even given this one out.  I spent a good chunk of today coding and really enjoyed the time.  I wish more days would be this productive and I would feel this good by the end of the day.  The next couple weekends I do not think I will get much time to code due to the holidays.  I will do my best to squeeze time in each day though.
 
 ---
 
-Day 57
+Day 58
 
 Today I got some coding in on my lunch break and that was all I was able to get in.  I started to get a headache at work and I haven't been able to shake it.  I'm not sure if it just from a lack of soda because I am still working on kicking that, or if it was from not being use to this cold weather moving in.  Tomorrow I will finish off some of the spacing issues I noticed on the challenge site and then it should be officially done.  Thought I had it done, but it didn't look right on my phone so I need to get that fixed.
 
 ---
 
-Day 58
+Day 59
 
 Tonight I didn't code because I got sucked into a video game.  Fallout 76 came out a day early and I got sucked into it.  I am off work the rest of the week so I will get in some extra coding tomorrow before I allow myself to play video games.
 
 ---
 
-Day 59
+Day 60
 
 Today I got my coding in early and I feel ok about it.  I ended up going over the stuff in the section I have been working on again.  I have spent the last few days working on the challenge site and applying for a job, so I felt out of sync with what was going on.  I got caught up with where I was and tomorrow or friday I will be pushing forward.  I am trying to decide if I should do a factory reset on my computer to see if that fixes the hiccup.  It has been getting worse, and I am starting to feel like that is my last option.  I will have to make sure I have space on external HDDs for everything, but I have several of them just hanging out so I should.
 
 ---
 
-Day 60
+Day 61
 
 After I did my coding today I felt rather confused.  I think I spent to much time trying to figure out the magic of how things worked.  I understood what was going on and understood the code, but I think I was trying to figure out the magic in the library I was using.  I will spend some time researching tonight, and I hope to have a moment of understanding.
 

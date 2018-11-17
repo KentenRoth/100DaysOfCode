@@ -386,3 +386,9 @@ Day 61
 After I did my coding today I felt rather confused.  I think I spent to much time trying to figure out the magic of how things worked.  I understood what was going on and understood the code, but I think I was trying to figure out the magic in the library I was using.  I will spend some time researching tonight, and I hope to have a moment of understanding.
 
 ---
+
+Day 62
+
+I got some coding in tonight but I do not feel great about what I did.  My mind has been foggy all day and I just had issues of staying focused and on topic.  I hope it just a bad day and not coming down with something and getting sick.  I'll be up early in the morning and I will see how I feel.  I'll skim over what I did today to see if I still understand what was going on or if it would be best to just go over everything again.
+
+---

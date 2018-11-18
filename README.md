@@ -392,3 +392,9 @@ Day 62
 I got some coding in tonight but I do not feel great about what I did.  My mind has been foggy all day and I just had issues of staying focused and on topic.  I hope it just a bad day and not coming down with something and getting sick.  I'll be up early in the morning and I will see how I feel.  I'll skim over what I did today to see if I still understand what was going on or if it would be best to just go over everything again.
 
 ---
+
+Day 63
+
+Today wasn't a bad day.  I still think I might be getting sick, but I did get coding in.  I felt fairly good about what I got did yesterday when I was reviewing the stuff I did.  I continued on with my course and hopefully I can figure out a time to get some coding in tomorrow.  With the holidays coming up it's going to be a little more difficult to get time in because of all the random things going on over the weekends.  
+
+---

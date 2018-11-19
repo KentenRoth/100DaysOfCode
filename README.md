@@ -398,3 +398,9 @@ Day 63
 Today wasn't a bad day.  I still think I might be getting sick, but I did get coding in.  I felt fairly good about what I got did yesterday when I was reviewing the stuff I did.  I continued on with my course and hopefully I can figure out a time to get some coding in tomorrow.  With the holidays coming up it's going to be a little more difficult to get time in because of all the random things going on over the weekends.  
 
 ---
+
+Day 64
+
+I had to get my coding in this morning before we left.  I did not get as much done as I wanted to.  I ran into some issues and I some erros that I could not figure out, and it turned out to be a typo.  Cold fingers and still a little tired when I was coding, I guess that is what happens.  I tried to type the word tokens and it took me about 30 minutes of trying things, rebooting my server, and trial and error before I realized that I spelled tokends.  Once I fixed that little typo everything seemed to work just fine.  Tomorrow I should have a decent amount of time to code, but tuesday I for sure will have some extra time after I get off work.
+
+---

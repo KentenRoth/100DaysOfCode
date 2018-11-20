@@ -404,3 +404,9 @@ Day 64
 I had to get my coding in this morning before we left.  I did not get as much done as I wanted to.  I ran into some issues and I some erros that I could not figure out, and it turned out to be a typo.  Cold fingers and still a little tired when I was coding, I guess that is what happens.  I tried to type the word tokens and it took me about 30 minutes of trying things, rebooting my server, and trial and error before I realized that I spelled tokends.  Once I fixed that little typo everything seemed to work just fine.  Tomorrow I should have a decent amount of time to code, but tuesday I for sure will have some extra time after I get off work.
 
 ---
+
+Day 65
+
+No coding tonight.  I'm not feeling well and I have to go back to the doctor tomorrow.
+
+---

@@ -413,12 +413,18 @@ No coding tonight.  I'm not feeling well and I have to go back to the doctor tom
 
 Day 66
 
-Today went much better.  I did the doctor stuff this morning and got that knocked out early.  I got a good amount of coding in and I am coiming to a close on the security part of my course.  I am not sure how I want to move forward after this.  I don't think I have enough time to learn SQL within my 100 days, so I think I might start doing JavaScript30 by Wes Bos.  That will get me back into the swing of JS, but I also want to get into React.  I want to get the frontend of my book app built out then I want to rebuild my garden app with React and MongoDB, while adding in a log in function.  I got a few decisions to make this week so I'll have to do some brainstorming to figure it out.
+Today went much better.  I did the doctor stuff this morning and got that knocked out early.  I got a good amount of coding in and I am coming to a close on the security part of my course.  I am not sure how I want to move forward after this.  I don't think I have enough time to learn SQL within my 100 days, so I think I might start doing JavaScript30 by Wes Bos.  That will get me back into the swing of JS, but I also want to get into React.  I want to get the frontend of my book app built out then I want to rebuild my garden app with React and MongoDB, while adding in a log in function.  I got a few decisions to make this week so I'll have to do some brainstorming to figure it out.
 
 ---
 
 Day 67
 
 I got all my coding in earlier this morning.  I wanted to get more done, but got busy with getting stuff ready for tomorrow.  It will be an early morning to start getting food ready, so I am not sure when I will get to code tomorrow.  I did decide that I am going to jump into React next.  I do have some React knowledge, but I am not confident in my skills.  The reason I am going to jump into React is so I can build out the front end part of my Book App and start the process of rebuilding my Garden App.
+
+---
+
+Day 68
+
+Today I finished off the security section of the course I was taking.  I wasn't able to get any coding in this morning so I had to wait until tonight.  I will be jumping back into React tomorrow or Saturday.  I got a couple things I want to do and finish off before I move back to React.  I wanted to get more done today, but I ate way to much food and now I feel gross and really need to go to bed.
 
 ---

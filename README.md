@@ -428,3 +428,9 @@ Day 68
 Today I finished off the security section of the course I was taking.  I wasn't able to get any coding in this morning so I had to wait until tonight.  I will be jumping back into React tomorrow or Saturday.  I got a couple things I want to do and finish off before I move back to React.  I wanted to get more done today, but I ate way to much food and now I feel gross and really need to go to bed.
 
 ---
+
+Day 69
+
+Today I didn't get any coding in but I did use some time to go over code.  I spent some time to go over what I have been learning in MongoDB and explained what everything was doing and how it worked.  I also went over some code that I wrote for my garden app to see how well my memory worked on what was going on.  After doing that I feel fairly good about what I have learned and that I am getting a better understanding of coding.  Tomorrow I plan on reviewing what I did learn previously in React and brush up on what I do not understand.
+
+---

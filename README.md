@@ -440,3 +440,9 @@ Day 70
 Today was a little coding and a lot of review of React.  I remembered part of it but was confused about was going on with code I had done.  So I spent some time figuring that out and getting back into the swing of how React works and looks.  I think tomorrow will be a good day and I should have plenty of time to get some coding done.
 
 ---
+
+Day 71
+
+Today I wasn't really feeling it.  I coded for around 2 hours and I think I'm going to call it a day.  I might get back into the mood of coding later, but I think the snow storm and it just being really cold is having and effect on my focus.  If this being cold stuff continues I will move a little heater to my coding area.  I think I'm going to just spend some time with my wife and daughter and lounge around with them the rest of today.
+
+---

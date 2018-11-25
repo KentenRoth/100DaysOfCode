@@ -434,3 +434,9 @@ Day 69
 Today I didn't get any coding in but I did use some time to go over code.  I spent some time to go over what I have been learning in MongoDB and explained what everything was doing and how it worked.  I also went over some code that I wrote for my garden app to see how well my memory worked on what was going on.  After doing that I feel fairly good about what I have learned and that I am getting a better understanding of coding.  Tomorrow I plan on reviewing what I did learn previously in React and brush up on what I do not understand.
 
 ---
+
+Day 70
+
+Today was a little coding and a lot of review of React.  I remembered part of it but was confused about was going on with code I had done.  So I spent some time figuring that out and getting back into the swing of how React works and looks.  I think tomorrow will be a good day and I should have plenty of time to get some coding done.
+
+---

@@ -446,3 +446,15 @@ Day 71
 Today I wasn't really feeling it.  I coded for around 2 hours and I think I'm going to call it a day.  I might get back into the mood of coding later, but I think the snow storm and it just being really cold is having and effect on my focus.  If this being cold stuff continues I will move a little heater to my coding area.  I think I'm going to just spend some time with my wife and daughter and lounge around with them the rest of today.
 
 ---
+
+Day 72
+
+Today I did not code.  After work I came home and I was dead tired.  I went to bed very early.
+
+---
+
+Day 73
+
+Today I dove into working with React.  I started building out a small app that will pull robot images from robohash.org.  This is just a small starter app to get me back in the swing of React.  I enjoyed React and I enjoy MongoDB, so I am excited to learn how I can put them together to make larger more user friendly apps.
+
+---

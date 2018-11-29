@@ -458,3 +458,9 @@ Day 73
 Today I dove into working with React.  I started building out a small app that will pull robot images from robohash.org.  This is just a small starter app to get me back in the swing of React.  I enjoyed React and I enjoy MongoDB, so I am excited to learn how I can put them together to make larger more user friendly apps.
 
 ---
+
+Day 74
+
+I continued on working with react today and once again I enjoyed what I was learning.  I will keep working on it tomorrow.  I will have more time to code tomorrow and I also plan on trying to code on my lunch break if I come home.  I am starting to see how I can get things connected between React and what I have built in MongoDB.  Everyday I feel a little closer to finally getting everything working together and built.
+
+---

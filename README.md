@@ -464,3 +464,9 @@ Day 74
 I continued on working with react today and once again I enjoyed what I was learning.  I will keep working on it tomorrow.  I will have more time to code tomorrow and I also plan on trying to code on my lunch break if I come home.  I am starting to see how I can get things connected between React and what I have built in MongoDB.  Everyday I feel a little closer to finally getting everything working together and built.
 
 ---
+
+Day 75
+
+I think tomorrow I might start getting the front-end part setup for my book-app.  I need to do some finishing touches on the back end of the app also.  I feel like I should be able to get everything connected, but part of me is thinking I am missing something.  I cannot be certain that I am "missing" a part of making it all connect and work unless I try to build this thing out.  I'll learn more from building and failing 100 times than bouncing from video to video trying to figure out what I might not understand.  I might end up pushing the starting process all the way until next week because of stuff going on this weekend, but I am really wanting to get this started.
+
+---

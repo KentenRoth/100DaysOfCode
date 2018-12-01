@@ -470,3 +470,9 @@ Day 75
 I think tomorrow I might start getting the front-end part setup for my book-app.  I need to do some finishing touches on the back end of the app also.  I feel like I should be able to get everything connected, but part of me is thinking I am missing something.  I cannot be certain that I am "missing" a part of making it all connect and work unless I try to build this thing out.  I'll learn more from building and failing 100 times than bouncing from video to video trying to figure out what I might not understand.  I might end up pushing the starting process all the way until next week because of stuff going on this weekend, but I am really wanting to get this started.
 
 ---
+
+Day 76
+
+I am under the weather and been running a temp today.  I'm going to head to bed early and hopefully I'll be better in the morning.
+
+---

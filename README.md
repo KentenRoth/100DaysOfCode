@@ -482,3 +482,9 @@ Day 77
 Wasn't feeling the best today so I relaxed and made a plan for what I need to get done tomorrow.  I'm going to start building out the front end of my book app.  It wont be pretty but I want to get it connected to the API and see if I can get that part rolling.  If I can get it connected I can worry about the design then.
 
 ---
+
+Day 78
+
+Well this morning I got React setup for my book app and made sure everything was running.  Then tonight I spent a lot of time trying to figure out why I could not get React to connect to my localhost api.  I spent a lot of time researching and trial and error before figuring out the issue.  Now that it is connected I can start working on the next part of mapping over whats there and getting the data I need.  I felt like getting it hooked up should have been a whole lot quicker, but I learned some things by researching so that is a win.
+
+---

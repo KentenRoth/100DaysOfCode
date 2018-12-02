@@ -476,3 +476,9 @@ Day 76
 I am under the weather and been running a temp today.  I'm going to head to bed early and hopefully I'll be better in the morning.
 
 ---
+
+Day 77
+
+Wasn't feeling the best today so I relaxed and made a plan for what I need to get done tomorrow.  I'm going to start building out the front end of my book app.  It wont be pretty but I want to get it connected to the API and see if I can get that part rolling.  If I can get it connected I can worry about the design then.
+
+---

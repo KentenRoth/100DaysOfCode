@@ -488,3 +488,9 @@ Day 78
 Well this morning I got React setup for my book app and made sure everything was running.  Then tonight I spent a lot of time trying to figure out why I could not get React to connect to my localhost api.  I spent a lot of time researching and trial and error before figuring out the issue.  Now that it is connected I can start working on the next part of mapping over whats there and getting the data I need.  I felt like getting it hooked up should have been a whole lot quicker, but I learned some things by researching so that is a win.
 
 ---
+
+Day 79
+
+I spent a good chunk of time reading more about React hooks.  I cannot say that I understand all of it, but seeing it and reading it some of the stuff makes sense.  I also spent some time before that reading over some more basic React stuff.  I want to get a better understanding to make sure that I am using the correct terms and I am understanding what is going on.  I will dive back into my book app tomorrow. I had a rough day at work and reading was going to be the best form of learning tonight.  I know that frustration would have come easy, so I did not want to waste another day.
+
+---

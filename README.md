@@ -494,3 +494,9 @@ Day 79
 I spent a good chunk of time reading more about React hooks.  I cannot say that I understand all of it, but seeing it and reading it some of the stuff makes sense.  I also spent some time before that reading over some more basic React stuff.  I want to get a better understanding to make sure that I am using the correct terms and I am understanding what is going on.  I will dive back into my book app tomorrow. I had a rough day at work and reading was going to be the best form of learning tonight.  I know that frustration would have come easy, so I did not want to waste another day.
 
 ---
+
+Day 80
+
+I worked more on my book app tonight and made no progress.  I can get my state to update but everytime I try to map through my books I get an error saying everything is undefined.  I have tried several different things and everytime I keep having the same issue.  I spent a little over 3 hours on this issue.  I looked over the MDN and React documentation, and was on stackoverflow and still could not resolve the issue.  I'm not really sure what my next move is right now.
+
+---

@@ -500,3 +500,9 @@ Day 80
 I worked more on my book app tonight and made no progress.  I can get my state to update but everytime I try to map through my books I get an error saying everything is undefined.  I have tried several different things and everytime I keep having the same issue.  I spent a little over 3 hours on this issue.  I looked over the MDN and React documentation, and was on stackoverflow and still could not resolve the issue.  I'm not really sure what my next move is right now.
 
 ---
+
+Day 81
+
+Today I worked more on the error I was having and I think I need to learn more about React to get it to work correctly.  I thought I had a few fixes, but each one just broke it in a new way.  I learned a lot from this trial and error, and I learned that I need to push more into my learning and I will find my answers.  I seen a way that I think might fix it, but I did not understand any of it.  When I was looking at different things in the course I noticed a section a little farther ahead that could solve my issue or at the least teach me what I need to know.
+
+---

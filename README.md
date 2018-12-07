@@ -506,3 +506,9 @@ Day 81
 Today I worked more on the error I was having and I think I need to learn more about React to get it to work correctly.  I thought I had a few fixes, but each one just broke it in a new way.  I learned a lot from this trial and error, and I learned that I need to push more into my learning and I will find my answers.  I seen a way that I think might fix it, but I did not understand any of it.  When I was looking at different things in the course I noticed a section a little farther ahead that could solve my issue or at the least teach me what I need to know.
 
 ---
+
+Day 82
+
+Finally got that silly error fixed.  It was something that was simple and I was way over thinking it.  I simply had to adjust my fetch results, and then everything worked as expected.  Made a couple minor tweaks to the code after the fetch adjustment.  Not sure if that is how I had it the first time or not.  I made a lot of changes over the last couple days.  Now that I got that part knocked out, it is on to the next one and hopefully it goes a touch smoother.  Excited to get more rolling on my app.
+
+---

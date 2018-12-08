@@ -512,3 +512,9 @@ Day 82
 Finally got that silly error fixed.  It was something that was simple and I was way over thinking it.  I simply had to adjust my fetch results, and then everything worked as expected.  Made a couple minor tweaks to the code after the fetch adjustment.  Not sure if that is how I had it the first time or not.  I made a lot of changes over the last couple days.  Now that I got that part knocked out, it is on to the next one and hopefully it goes a touch smoother.  Excited to get more rolling on my app.
 
 ---
+
+Day 83
+
+Tonight I spent some time figuring out a design for my book app.  Still not sure how I want it to look but I got a few different ideas.  Also, I spent some time looking into how to get everything to work.  I'm a little confused on what I need to do to get things to function as expected.  Tomorrow I will start putting parts together to see if I can get it figured out.
+
+---

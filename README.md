@@ -518,3 +518,15 @@ Day 83
 Tonight I spent some time figuring out a design for my book app.  Still not sure how I want it to look but I got a few different ideas.  Also, I spent some time looking into how to get everything to work.  I'm a little confused on what I need to do to get things to function as expected.  Tomorrow I will start putting parts together to see if I can get it figured out.
 
 ---
+
+Day 84
+
+Today was making things look decent.  Not really happy with the design, but I will tweak it as I go to make it look better.  I was using the tachyons library and found it very nice.  For some reason I did go back to using regular CSS, and I plan on just using the tachyons library to make animations easier.  It will save me some typing on the css side of things.
+
+---
+
+Day 85  
+
+Today was another battle against the computer issues.  They started out bad and they started early.  I did more searching and trials to see if I can get them corrected.  Tomorrow will be the judge to see if any of my cleaning and fixes solved the issue.  I did however spend time looking into React Router for my book-app and really want to get it implimented.  That was the goal for today, but getting something done on my computer was near impossible.  I think I am almost to the point of buying the adaptor to hook my Macbook air up to a 2nd monitor and start using it.  I really do not like using laptops to code, but I think I might have to until I can get my iMac working better, or I finally get a new one like I want.
+
+---

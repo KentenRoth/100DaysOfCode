@@ -530,3 +530,9 @@ Day 85
 Today was another battle against the computer issues.  They started out bad and they started early.  I did more searching and trials to see if I can get them corrected.  Tomorrow will be the judge to see if any of my cleaning and fixes solved the issue.  I did however spend time looking into React Router for my book-app and really want to get it implimented.  That was the goal for today, but getting something done on my computer was near impossible.  I think I am almost to the point of buying the adaptor to hook my Macbook air up to a 2nd monitor and start using it.  I really do not like using laptops to code, but I think I might have to until I can get my iMac working better, or I finally get a new one like I want.
 
 ---
+
+Day 86
+
+I spent tonight getting react router implimented.  I got my links setup and working.  Only thing that I need to do is the passing of data from the App component to the BookReview component.  This is something I am not sure how to do and I think it is going to involve me using Redux.  I was looking at different things to get this to work, but came out a little short on what was going on.  I did not fully understand what was needed.  Tomorrow I will be doing some learning with Redux to see if that is what I need to get things to work.  I also need to go in and setup some authentication stuff so that posting, deleting, and patching is not allowed by just anyone.  I have been thinking that needs done for a while, but have yet to do it.
+
+---

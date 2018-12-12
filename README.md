@@ -536,3 +536,9 @@ Day 86
 I spent tonight getting react router implimented.  I got my links setup and working.  Only thing that I need to do is the passing of data from the App component to the BookReview component.  This is something I am not sure how to do and I think it is going to involve me using Redux.  I was looking at different things to get this to work, but came out a little short on what was going on.  I did not fully understand what was needed.  Tomorrow I will be doing some learning with Redux to see if that is what I need to get things to work.  I also need to go in and setup some authentication stuff so that posting, deleting, and patching is not allowed by just anyone.  I have been thinking that needs done for a while, but have yet to do it.
 
 ---
+
+Day 87
+
+Today I noticed that one of my React courses had been updated with all the new stuff coming to React.  I am not sure when that happened so I jumped into that and have been moving forward with that.  I will jump back into my book app very soon.  I want to do some more with React and feel better about my foundation.
+
+---

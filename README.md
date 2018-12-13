@@ -542,3 +542,9 @@ Day 87
 Today I noticed that one of my React courses had been updated with all the new stuff coming to React.  I am not sure when that happened so I jumped into that and have been moving forward with that.  I will jump back into my book app very soon.  I want to do some more with React and feel better about my foundation.
 
 ---
+
+Day 88
+
+Today was more refresher stuff with React.  I feel better about what is going on and what I have retained after going over some of the earlier stuff in React.  It made me realize that I have retained a lot more than I had originally thought.  I am still going to build out all the stuff that goes along with the course just to help build on that muscle memory.  I plan on hitting JS extremely hard after the new year, and learning more advanced JS to finally switch careers.
+
+---

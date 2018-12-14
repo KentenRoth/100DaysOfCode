@@ -548,3 +548,9 @@ Day 88
 Today was more refresher stuff with React.  I feel better about what is going on and what I have retained after going over some of the earlier stuff in React.  It made me realize that I have retained a lot more than I had originally thought.  I am still going to build out all the stuff that goes along with the course just to help build on that muscle memory.  I plan on hitting JS extremely hard after the new year, and learning more advanced JS to finally switch careers.
 
 ---
+
+Day 89
+
+We had company over tonight so my coding was all done earlier today.  I spent my breaks watching videos and reading a lot of the help channels on slack.  Didn't get time in my editor but seeing the conversations going on between developers was a huge help.
+
+---

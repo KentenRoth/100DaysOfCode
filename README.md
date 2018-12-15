@@ -554,3 +554,9 @@ Day 89
 We had company over tonight so my coding was all done earlier today.  I spent my breaks watching videos and reading a lot of the help channels on slack.  Didn't get time in my editor but seeing the conversations going on between developers was a huge help.
 
 ---
+
+Day 90
+
+Tonight I spent more time working on the React course.  I am still going over things that I know and hearing a new explination on it has helped fill in a little bit of the gaps on what is happening.  There are things that I know why it has to be done, but it makes a little more sense on the magic that is happening.
+
+---

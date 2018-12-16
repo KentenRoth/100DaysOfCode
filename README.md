@@ -566,3 +566,9 @@ Day 91
 Today I moved further into the React Course.  I also setup a repo for the stuff that will be built along with the course.  I decided today that I would save the code that I am typing.  Even though I know what is going on I think it might be a good idea to github it just incase I need to reference something.  
 
 ---
+
+Day 92
+
+Today I did not get as much time as I wanted to code, but I did get time in.  I continued on with the course.  I wanted to get further than I did, but it was tough to get time in today.  I got a feeling that its going to get more difficult to get time in over the next week or so because of everything going on for the christmas.  
+
+---

@@ -560,3 +560,9 @@ Day 90
 Tonight I spent more time working on the React course.  I am still going over things that I know and hearing a new explination on it has helped fill in a little bit of the gaps on what is happening.  There are things that I know why it has to be done, but it makes a little more sense on the magic that is happening.
 
 ---
+
+Day 91
+
+Today I moved further into the React Course.  I also setup a repo for the stuff that will be built along with the course.  I decided today that I would save the code that I am typing.  Even though I know what is going on I think it might be a good idea to github it just incase I need to reference something.  
+
+---

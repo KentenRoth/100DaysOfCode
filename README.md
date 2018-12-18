@@ -572,3 +572,9 @@ Day 92
 Today I did not get as much time as I wanted to code, but I did get time in.  I continued on with the course.  I wanted to get further than I did, but it was tough to get time in today.  I got a feeling that its going to get more difficult to get time in over the next week or so because of everything going on for the christmas.  
 
 ---
+
+Day 93
+
+I have not got much coding done.  My computer is being insane bad tonight.  I deleted google because I've read that could be the issue, but I guess only time will tell.  I am going to try and get some coding done now, but not sure how long I will get.  Wanted to get my post in so I did not forget.  Tomorrow night I think I am going to take my iMac apart and see how dirty it is.  Possibly that could be the problem?  Maybe there is just a massive build up of dust that is the issue.  If they would just redesign that iMac I would feel better about going for an upgrade.  Untill then I need this thing to hang in there.
+
+---

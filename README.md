@@ -578,3 +578,9 @@ Day 93
 I have not got much coding done.  My computer is being insane bad tonight.  I deleted google because I've read that could be the issue, but I guess only time will tell.  I am going to try and get some coding done now, but not sure how long I will get.  Wanted to get my post in so I did not forget.  Tomorrow night I think I am going to take my iMac apart and see how dirty it is.  Possibly that could be the problem?  Maybe there is just a massive build up of dust that is the issue.  If they would just redesign that iMac I would feel better about going for an upgrade.  Untill then I need this thing to hang in there.
 
 ---
+
+Day 94
+
+I took my computer apart tonight and gave it a good clean.  Hope that fixes the issues or at the least calms them down.  I will find out for sure tomorrow how it worked.
+
+---

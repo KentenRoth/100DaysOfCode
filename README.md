@@ -584,3 +584,9 @@ Day 94
 I took my computer apart tonight and gave it a good clean.  Hope that fixes the issues or at the least calms them down.  I will find out for sure tomorrow how it worked.
 
 ---
+
+Day 95
+
+Tonight was more of the course and covering state.  The computer still had some issues so taking it apart and cleaning was not the fix that was needed.  My last thing I am going to try is to swap the RAM out that I installed a couple years ago and go back to the RAM it came with.  Hopefully that will solve the issues.  If not then I guess I will just continue to deal with it until it gets really bad then switch to my laptop for coding or buy a new iMac.  
+
+---

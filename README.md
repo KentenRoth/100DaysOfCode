@@ -590,3 +590,9 @@ Day 95
 Tonight was more of the course and covering state.  The computer still had some issues so taking it apart and cleaning was not the fix that was needed.  My last thing I am going to try is to swap the RAM out that I installed a couple years ago and go back to the RAM it came with.  Hopefully that will solve the issues.  If not then I guess I will just continue to deal with it until it gets really bad then switch to my laptop for coding or buy a new iMac.  
 
 ---
+
+Day 96
+
+Today was a rough day and my focus is extremely bad.  I spent most of my time going over code and talking my way threw why things are doing what the are and why things are working.  I plan on taking a shower then jumping back on to start typing code.
+
+---

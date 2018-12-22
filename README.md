@@ -596,3 +596,9 @@ Day 96
 Today was a rough day and my focus is extremely bad.  I spent most of my time going over code and talking my way threw why things are doing what the are and why things are working.  I plan on taking a shower then jumping back on to start typing code.
 
 ---
+
+Day 97
+
+Tonight was not very productive.  I got my next part of the course setup but that was about all.  I got hung up on getting things done around the house because of everything going on this weekend and christmas coming up in a couple days.
+
+---

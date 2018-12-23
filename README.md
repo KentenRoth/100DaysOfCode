@@ -602,3 +602,9 @@ Day 97
 Tonight was not very productive.  I got my next part of the course setup but that was about all.  I got hung up on getting things done around the house because of everything going on this weekend and christmas coming up in a couple days.
 
 ---
+
+Day 98
+
+Today I had a lot of stuff going on, but managed to sneak in a little time.  I spent tonight building out small components that I could use in different projects.  I think down the line if I do use them a few times I will create a repo to put them in.
+
+---

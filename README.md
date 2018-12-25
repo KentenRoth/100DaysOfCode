@@ -614,3 +614,9 @@ Day 99
 Today was another very limited one my computer day.  I had a lot going on and finding time to get on my computer was difficult.  I am not sure if I am feeling burnout or if it is just the end of the year and being frustrated.  My goal coming into 2018 was to find a new job, and get away from what I was doing.  Coming up short of that goal has hit me a lot harder than expected.  Once I finish off my 100 days tomorrow I will take a break to reset then jump back into coding.  I don't think I will do another 100 days or anything.  I am not sure how I will keep myself on task, but will come up with something.
 
 ---
+
+Day 100
+
+Well today ends the challenge.  I ended up getting up early today and getting my coding in this AM.  I did not get a whole lot in, but was happy that I was able to sneak it what time I did.  I plan on taking a few days off to spend some evenings with the family then dive back into coding.  I have a plan for what I want to do, so hopefully I can get on tack in the next few days.
+
+---

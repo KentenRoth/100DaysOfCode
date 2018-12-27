@@ -28,3 +28,9 @@ Day 1 (Christmas)
 Tonight I got a lot more time than expected. I moved further into the course I have been working on, and spent some extra time learning about "this." I have to say that I do not fully understand the "this" keyword, but I will do some reading tonight while I lay in bed. I want to get a better grip on understanding it because I know it will be important when I get into more complex JavaScript stuff. Also, I got to the part of using React to pass state from the child to the parent component. I knew how to do this, but needed a refresher.
 
 ---
+
+Day 2
+
+Tonight again I was facing many computer issues. I did not shut my computer down last night, but I just left it in sleep mode. I have started to notice that when I skip the full shutdown process, I experience more issues. I worked on getting the API keys I would need for the course, and also getting the keys into a .env file. I ran into some issues getting that to work as expected, so I jumped on StackOverflow and got the problem solved. I hope to get a lot more time tomorrow night, and hopefully, my computer is up to the task. I think buying a new computer is going to be moved to the top of my todo list for the new year.
+
+---

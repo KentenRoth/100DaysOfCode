@@ -34,3 +34,9 @@ Day 2
 Tonight again I was facing many computer issues. I did not shut my computer down last night, but I just left it in sleep mode. I have started to notice that when I skip the full shutdown process, I experience more issues. I worked on getting the API keys I would need for the course, and also getting the keys into a .env file. I ran into some issues getting that to work as expected, so I jumped on StackOverflow and got the problem solved. I hope to get a lot more time tomorrow night, and hopefully, my computer is up to the task. I think buying a new computer is going to be moved to the top of my todo list for the new year.
 
 ---
+
+Day 3
+
+Tonight after my first day back to work in a week I am a little under the weather.  It was rainy and cold all day and going in and out into that weather really took its toll on me today.  I will have to jump back into coding tomorrow night.  I will also take up some time tomorrow on my lunch reading and watching videos to help make up for my loss of night.
+
+---

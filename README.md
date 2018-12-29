@@ -37,6 +37,12 @@ Tonight again I was facing many computer issues. I did not shut my computer down
 
 Day 3
 
-Tonight after my first day back to work in a week I am a little under the weather.  It was rainy and cold all day and going in and out into that weather really took its toll on me today.  I will have to jump back into coding tomorrow night.  I will also take up some time tomorrow on my lunch reading and watching videos to help make up for my loss of night.
+Tonight after my first day back to work in a week I am a little under the weather. It was rainy and cold all day and going in and out into that weather really took its toll on me today. I will have to jump back into coding tomorrow night. I will also take up some time tomorrow on my lunch reading and watching videos to help make up for my loss of night.
+
+---
+
+Day 4
+
+Tonight I thought my computer finally died. It took over 20 minutes to open safari, and then my computer would not reboot after shutting it down. I tried running safe mode and disk repair, but the results did not change. I ended up having to reinstall the OS. While that was installing, I got things set up on my laptop and hooked my MacBook air up to an extra monitor so I could code. I knocked out another section of the React course where it was going over axios and async-await. I have not used axios before, so this was something different, but also in a way felt familiar.
 
 ---

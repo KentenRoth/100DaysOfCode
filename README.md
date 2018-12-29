@@ -46,3 +46,9 @@ Day 4
 Tonight I thought my computer finally died. It took over 20 minutes to open safari, and then my computer would not reboot after shutting it down. I tried running safe mode and disk repair, but the results did not change. I ended up having to reinstall the OS. While that was installing, I got things set up on my laptop and hooked my MacBook air up to an extra monitor so I could code. I knocked out another section of the React course where it was going over axios and async-await. I have not used axios before, so this was something different, but also in a way felt familiar.
 
 ---
+
+Day 5
+
+So with my new setup of using my MB Air with an extra monitor and only running video from my iMac things seem to be running smoother. My iMac is not freezing nearly as much, but the problem is still there. This might be what I have to do until this spring when I give in and upgrade to a new computer. Today I spent more time in the React course and knocked out two more sections. Ran into some issues and like usualy it was simple misspellings that caused all my problems. This was more of a styling portion to the course. The next section will be a more extensive recap section. Then after that, I think I might start JavaScript 30 by Wes Bos. Once I finish that hopefully, I will have a couple of ideas of things I want to build that are a little more complex than a ToDo list or weather app.
+
+---

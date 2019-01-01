@@ -56,3 +56,11 @@ So with my new setup of using my MB Air with an extra monitor and only running v
 Day 6
 
 Today was a day of rare form. A couple of days ago I started to do some FCC on JavaScript to get the feeling back. I also plan on jumping into JavaScript 30 to start the new year. Today I knocked out little over 20 challenges on FCC, and also knocked out a larget section of my React course. I feel excellent about how everything went today. I sent some goals and knocked them all out. I want to work on my book app tomorrow, but I also want to knock out more of the FCC challenges. I will try to find the right balance for those two. I want to get the basics of the book up done and learn how to deploy it. I know I have some challenges coming up, but I am excited to face them.
+
+---
+
+Day 7
+
+Today was little of a downer day. I did a little over 20 of the FCC challenges, and have started a blog post. I want to do a blog post about my 1st 100 days of code challenge. I want to cover what went well, and also include things that did not go well and that I want to change for my round 2 challenge. I think this post will be mostly for a reminder for myself that way I know what habits to not fall back into.
+
+---

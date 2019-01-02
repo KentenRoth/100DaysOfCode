@@ -64,3 +64,9 @@ Day 7
 Today was little of a downer day. I did a little over 20 of the FCC challenges, and have started a blog post. I want to do a blog post about my 1st 100 days of code challenge. I want to cover what went well, and also include things that did not go well and that I want to change for my round 2 challenge. I think this post will be mostly for a reminder for myself that way I know what habits to not fall back into.
 
 ---
+
+Day 8
+
+I spent the evening doing more of the FCC challenges. I only knocked out 10 to 15 of them. I wanted to get more done, but had a busy day at work and need to get a few things done around the house also. I did start sketching out an idea for how I want a new site to look. I think I am going to use the Star Wars API and create a React page around that. I also, think I might do the same thing with the Pokemon API. At first, I wanted to do two separate sites, but consider that maybe I can come up with a way to have them on the same site and a toggle between them. I am not 100% sure how that would work or how I could build it together, but that would be the challenge in the project. I hope tomorrow I will be able to knock out the rest of the section I am doing on FCC, then maybe either get the project started, or work more on my blog post.
+
+---

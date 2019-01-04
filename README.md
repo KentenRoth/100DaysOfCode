@@ -73,4 +73,12 @@ I spent the evening doing more of the FCC challenges. I only knocked out 10 to 1
 
 Day 9
 
-Tonight was a struggle for me because I am not feeling well. I know that coding every night is, so I fought through the "ugh" feelings and got to work. I finished off the Basics of JavaScript on FCC and felt pretty good about it. I did struggle with a couple of the challenges, and mainly the Record Collection one. I was confused about what I was being asked to accomplish. I did look at the hints to get me started after a few minutes. Once I got a better understanding of what I was being asked to do things went a lot better. I still struggled on that one the most, but in the end, I was able to my way through the problem. I wanted to do more tonight, but I used up my all my coding time on FCC. I think this weekend I am going to jump into JavaScript 30 by Wes Bos and see what it is all about. I do not know if I will do it in 30 days, but I will check it out and set up a plan once I understand how it is set up.
+Tonight was a struggle for me because I am not feeling well. I know that coding every night is, so I fought through the "ugh" feelings and got to work. I finished off the Basics of JavaScript on FCC and felt pretty good about it. I did struggle with a couple of the challenges, and mainly the Record Collection one. I was confused about what I was being asked to accomplish. I did look at the hints to get me started after a few minutes. Once I got a better understanding of what I was being asked to do things went a lot better. I still struggled on that one the most, but in the end, I was able to make my way through the problem. I wanted to do more tonight, but I used up my all my coding time on FCC. I think this weekend I am going to jump into JavaScript 30 by Wes Bos and see what it is all about. I do not know if I will do it in 30 days, but I will check it out and set up a plan once I understand how it is set up.
+
+---
+
+Day 10
+
+I started doing the JavaScript30 challenge tonight and knocked out the drum kit. It was not something that I got confused during, but it did feel good going over some JavaScript using the querySelector. I also started a React project for an old photo site mockup that I started and never finished. I think there is going to be a warm spell coming next week so I might take my laptop to work with me and do some coding on my lunch break in my car. I will have an API hooked to the photo site so I will see if using my phone as a hotspot will be good enough for it to work. I have been cutting my coding time a little short because I bought a new book and had been digging into it every night also. It is "Can't Hurt Me" by David Goggins.
+
+---

@@ -82,3 +82,9 @@ Day 10
 I started doing the JavaScript30 challenge tonight and knocked out the drum kit. It was not something that I got confused during, but it did feel good going over some JavaScript using the querySelector. I also started a React project for an old photo site mockup that I started and never finished. I think there is going to be a warm spell coming next week so I might take my laptop to work with me and do some coding on my lunch break in my car. I will have an API hooked to the photo site so I will see if using my phone as a hotspot will be good enough for it to work. I have been cutting my coding time a little short because I bought a new book and had been digging into it every night also. It is "Can't Hurt Me" by David Goggins.
 
 ---
+
+Day 11
+
+Tonight I didn't get a whole lot accomplished. I spent most of the night playing games with my daughter. I got my photo-site project setup. I got the files I think I will need but didn't get a whole lot of code in them. I think I should be able to get some stuff done in the morning before anyone gets out of bed. My coding time hinges on how late my daughter sleeps in and if I can convince her a nap is good. While she is awake I am going to hit the ES6 portion of FCC and I hope to get that knocked out.
+
+---

@@ -85,6 +85,12 @@ I started doing the JavaScript30 challenge tonight and knocked out the drum kit.
 
 Day 11
 
-Tonight I didn't get a whole lot accomplished. I spent most of the night playing games with my daughter. I got my photo-site project setup. I got the files I think I will need but didn't get a whole lot of code in them. I think I should be able to get some stuff done in the morning before anyone gets out of bed. My coding time hinges on how late my daughter sleeps in and if I can convince her a nap is good. While she is awake I am going to hit the ES6 portion of FCC and I hope to get that knocked out.
+Tonight I didn't get a whole lot accomplished. I spent most of the night playing games with my daughter. I got my photo-site project setup. I got the files I thought I would need but didn't get a whole lot of code in them. I can get some stuff done in the morning before anyone gets out of bed. My coding time hinges on how late my daughter sleeps in and if I can convince her a nap is good. While she is awake, I am going to hit the ES6 portion of FCC, and I hope to get that knocked out.
+
+---
+
+Day 12
+
+Today I worked on my photo-site for a while. I finished off the navbar and the header. I wanted to make the navbar sticky but did not get that hooked up just yet. I will hopefully get that done tomorrow along with several other parts of the site. I do not know if I will complete the project tomorrow, but I should be able to get a lot of time into it. I feel good about what I did today. I was taking things that I learned and apply them without having to refer to other code or look things up. I didn't get things put together on my first try, but I was able to troubleshoot where the issues are.
 
 ---

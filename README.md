@@ -94,3 +94,9 @@ Day 12
 Today I worked on my photo-site for a while. I finished off the navbar and the header. I wanted to make the navbar sticky but did not get that hooked up just yet. I will hopefully get that done tomorrow along with several other parts of the site. I do not know if I will complete the project tomorrow, but I should be able to get a lot of time into it. I feel good about what I did today. I was taking things that I learned and apply them without having to refer to other code or look things up. I didn't get things put together on my first try, but I was able to troubleshoot where the issues are.
 
 ---
+
+Day 13
+
+Today I worked on FCC and completed the ES6 section. I was running into some issues and getting extremely confused. I started the section doing well, then things starting going on in the house, and distractions starting popping up. Even with all the distractions, I was still able to power through the challenges and knock them out. I wanted to get more done on the photo site today but ended up watching a movie and getting in some family time. In a couple of weeks, I will have the house to myself on the weekend, and I plan on to get a ton of coding done that weekend. I want to get myself setup into a good spot going into that weekend. Not sure what the plan is for tomorrow night, but I want to get more done on FCC and my lunch tomorrow I will brainstorm or lookup some different designs for the next section of the photo site.
+
+---

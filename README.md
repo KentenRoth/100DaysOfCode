@@ -106,3 +106,9 @@ Day 14
 Tonight I coded, but I did not get anywhere. I had a couple of ideas when I was at work and was giving them a try. I wasn't able to get things to work as expected, but I did a lot of research and trial and error. I feel like I learned what doesn't work, but still working on what might work. I think that is the best thing about coding. I might not figure out how to do what I want, but trying different things that end up not working for whatever reason does not discourage me. When I do solve the problem, I like to take time to go over what was not working and find out why it was not working.
 
 ---
+
+Day 15
+
+I spent some time working on my photo site and getting another section put together. Didn't get it completely assembled and how I want, but I get a good portion of it done. I am not much of a design person, so it looks sketchy. I will knock out the rest of it tomorrow night, and hopefully, get started on the next section. I could not get one part working as I wanted, so I will research that on my lunch to see what the malfunction is.
+
+---

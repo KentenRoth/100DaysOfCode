@@ -112,3 +112,9 @@ Day 15
 I spent some time working on my photo site and getting another section put together. Didn't get it completely assembled and how I want, but I get a good portion of it done. I am not much of a design person, so it looks sketchy. I will knock out the rest of it tomorrow night, and hopefully, get started on the next section. I could not get one part working as I wanted, so I will research that on my lunch to see what the malfunction is.
 
 ---
+
+Day 16
+
+Tonight was just more design and building on my photo-site. I spend a lot of time changing colors and making small tweaks. I need to build everything out and get it working before making the small design tweaks. I will tweak something in one area then go to another area to change something. I cannot decide if I should jump into the more intensive section next to where I will be making the API call and doing all that fun stuff or if I should save that for last. I have multiple ideas of how I want the more labor intensive section to look so I am not sure what one to go with. So if I jump on the footer section next it could give me a little more time to figure out how I want everything to look.
+
+---

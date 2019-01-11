@@ -118,3 +118,9 @@ Day 16
 Tonight was just more design and building on my photo-site. I spend a lot of time changing colors and making small tweaks. I need to build everything out and get it working before making the small design tweaks. I will tweak something in one area then go to another area to change something. I cannot decide if I should jump into the more intensive section next to where I will be making the API call and doing all that fun stuff or if I should save that for last. I have multiple ideas of how I want the more labor intensive section to look so I am not sure what one to go with. So if I jump on the footer section next it could give me a little more time to figure out how I want everything to look.
 
 ---
+
+Day 17
+
+Tonight I took off from coding. There was a lot of stuff I wanted to do and get done, but due to some family stuff, I felt taking tonight off was best. My daughter was crying this morning after I left for work and told my wife that she misses me and feels like she never gets to see me or play with me. That kind of hurt because I cannot explain to her for her to understand why I am spending so much time on my computer and doing what I am doing. So tonight I took the night off, and we played, and tomorrow night I won't get on my computer until I put her down for bed.
+
+---

@@ -124,3 +124,9 @@ Day 17
 Tonight I took off from coding. There was a lot of stuff I wanted to do and get done, but due to some family stuff, I felt taking tonight off was best. My daughter was crying this morning after I left for work and told my wife that she misses me and feels like she never gets to see me or play with me. That kind of hurt because I cannot explain to her for her to understand why I am spending so much time on my computer and doing what I am doing. So tonight I took the night off, and we played, and tomorrow night I won't get on my computer until I put her down for bed.
 
 ---
+
+Day 18
+
+Tonight I spent some time being a dad again. I am starting to change up my routine a little bit, so my daughter gets to see me a little more and spend more time with me. My usual routine would be to come home and get on my computer until I have to get her dinner ready. I would let her play and color, and we would talk a little, but usually, it was her playing by herself. If my wife were home, I would disappear into another room and spend my time there until dinner was ready, then eat and go back to my computer. I need to find a better balance in what I am doing. So tonight I did some reading of Clean Code and did more work on my blog. I hope I can get it cleaned up and post it this weekend if people read it great if they don't read it great. I'm not comfortable with my writing skills yet, so if its a blog that is not seen by many that is fine with me.
+
+---

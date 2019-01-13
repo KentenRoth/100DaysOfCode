@@ -136,3 +136,9 @@ Day 19
 Today was a good day. I finished off my blog and planned on publishing it Sunday or Monday. I spent some time working on my photo-site and concluded that I did not currently like how my design was turning out. So after a couple of hours of working on it, I called it a day and went back to the drawing board of how I wanted it to look. I have a new look I want to go with, so I will start that up on Sunday. Overall even with the design change, I feel like I did some stuff and was successful today.
 
 ---
+
+Day 20
+
+Today has been incredibly frustrating. I know what I want to do, but getting it done has not been happening. I need to take a break from coding for the day and just read. So I am going to possibly be done coding for the day and off my computer. I still might jump on later to do stuff and try a couple of things, but I won't be spending hours looking to figure things out as I have been. I hope I can get a decent amount of reading done. I want to finish the book I have been reading, and then I can focus on Clean Code.
+
+---

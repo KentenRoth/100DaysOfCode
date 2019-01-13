@@ -130,3 +130,9 @@ Day 18
 Tonight I spent some time being a dad again. I am starting to change up my routine a little bit, so my daughter gets to see me a little more and spend more time with me. My usual routine would be to come home and get on my computer until I have to get her dinner ready. I would let her play and color, and we would talk a little, but usually, it was her playing by herself. If my wife were home, I would disappear into another room and spend my time there until dinner was ready, then eat and go back to my computer. I need to find a better balance in what I am doing. So tonight I did some reading of Clean Code and did more work on my blog. I hope I can get it cleaned up and post it this weekend if people read it great if they don't read it great. I'm not comfortable with my writing skills yet, so if its a blog that is not seen by many that is fine with me.
 
 ---
+
+Day 19
+
+Today was a good day. I finished off my blog and planned on publishing it Sunday or Monday. I spent some time working on my photo-site and concluded that I did not currently like how my design was turning out. So after a couple of hours of working on it, I called it a day and went back to the drawing board of how I wanted it to look. I have a new look I want to go with, so I will start that up on Sunday. Overall even with the design change, I feel like I did some stuff and was successful today.
+
+---

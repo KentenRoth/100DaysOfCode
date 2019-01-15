@@ -142,3 +142,9 @@ Day 20
 Today has been incredibly frustrating. I know what I want to do, but getting it done has not been happening. I need to take a break from coding for the day and just read. So I am going to possibly be done coding for the day and off my computer. I still might jump on later to do stuff and try a couple of things, but I won't be spending hours looking to figure things out as I have been. I hope I can get a decent amount of reading done. I want to finish the book I have been reading, and then I can focus on Clean Code.
 
 ---
+
+Day 21
+
+Today went better than yesterday. I ended up changing the design to something that I could knock out. I'm not giving up on what I wanted to do, and I will find a way to build out a carousel in React. After I finish off the website, I am working on I plan on building out an entire project for an image carousel in React. That way I will have the components when needed for future projects. I spent today brainstorming ideas for things I can build in JS/React to help me improve my skills. I want to start with easier projects and then work my way to more difficult projects.
+
+---

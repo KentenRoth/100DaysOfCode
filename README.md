@@ -148,3 +148,9 @@ Day 21
 Today went better than yesterday. I ended up changing the design to something that I could knock out. I'm not giving up on what I wanted to do, and I will find a way to build out a carousel in React. After I finish off the website, I am working on I plan on building out an entire project for an image carousel in React. That way I will have the components when needed for future projects. I spent today brainstorming ideas for things I can build in JS/React to help me improve my skills. I want to start with easier projects and then work my way to more difficult projects.
 
 ---
+
+Day 22
+
+Today I spent a lot of time reading different blogs about random things. I did spend some time looking up how to make the carousel that I want to make. I am looking to avoid using video tutorials now and moving towards reading blogs for information. Tomorrow night I will knock out the rest of the photo site I have been working on. A lot of the stuff I will have to do is going to be getting it mobile ready. As long as things go smoothly, I do not think it should take a lot of time, but a lot of times coding does not get smooth.
+
+---

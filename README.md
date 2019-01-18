@@ -154,3 +154,15 @@ Day 22
 Today I spent a lot of time reading different blogs about random things. I did spend some time looking up how to make the carousel that I want to make. I am looking to avoid using video tutorials now and moving towards reading blogs for information. Tomorrow night I will knock out the rest of the photo site I have been working on. A lot of the stuff I will have to do is going to be getting it mobile ready. As long as things go smoothly, I do not think it should take a lot of time, but a lot of times coding does not get smooth.
 
 ---
+
+Day 23
+
+Tonight I knocked out the desktop version of the photo-site. I keep going in and tweaking things and adjust colors. I have an issue of telling myself that it is done, and I need to move on to the next thing. I am not sure why I do this, but I think it has something to do with wanting things to be perfect because others will see it. I am not very confident in my skills as a developer and especially not confident in my design skills. So I spend way to much time trying to perfect things that work but have an issue of trying to move on. I know it is a growing pain and it will pass once I get a few more things finished and under my belt. It is also something that I know is an issue and I am working on.
+
+---
+
+Day 24
+
+Today I am going to be reading Clean Code. I got the book, and I am going to dive into it tonight. I have goals for the weekend, and I didn't make a lot of extra time for reading. So tonight will be me, Clean Code, and a notebook for some notes. I am excited to get into this book and learn more and hopefully understand it well enough to apply it to my coding.
+
+---

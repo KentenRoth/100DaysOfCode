@@ -166,3 +166,7 @@ Day 24
 Today I am going to be reading Clean Code. I got the book, and I am going to dive into it tonight. I have goals for the weekend, and I didn't make a lot of extra time for reading. So tonight will be me, Clean Code, and a notebook for some notes. I am excited to get into this book and learn more and hopefully understand it well enough to apply it to my coding.
 
 ---
+
+Tonight I am not feeling well and decided I would do more reading of Clean Code.  
+
+---

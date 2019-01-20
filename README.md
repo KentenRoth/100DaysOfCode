@@ -178,3 +178,9 @@ Day 26
 Today I finished off my mockup of a photography website. It feels good to finally get it finished off and looking close to as expected. It did not take me long to get the mobile-friendly code added. I did not expect it to take long, and for one of the few times in coding, I was right about time. I also spent the night reading more in Clean Code and taking notes. I am not far into the book, and I am already thinking about how I have done things in the past and how I could change them to be better. I did not get as much time coding as I wanted to yesterday. I am not sure what is going on, but for the last several days I have not been feeling well in the evenings. I have not changed much up in my normal routine, and I am doing better about eating better so hopefully, these issues pass.
 
 ---
+
+Day 27
+
+Today was a somewhat successful day. It started a little rough because of focus issues, but I was able to rein them in and get to work. I spent most of the afternoon working on my image slider. I read a Medium article about how to build one and set out to get it made. I was doing well, but ran into some snags, and had to refer back to the article to get the ship put back on the right path. My goal was to do it 100% without referring back to the article, but I ran into some issues that I couldn't solve at the time. I was able to fix most of my problems outside of a couple that I had to look up. I will be reading more Clean Code tonight and figuring out something as my next project. I do not have any significant ideas yet, but I want to build something out in JS to keep those skills fresh.
+
+---

@@ -167,6 +167,14 @@ Today I am going to be reading Clean Code. I got the book, and I am going to div
 
 ---
 
-Tonight I am not feeling well and decided I would do more reading of Clean Code.  
+Day 25
+
+Tonight I am not feeling well and decided I would do more reading of Clean Code.
+
+---
+
+Day 26
+
+Today I finished off my mockup of a photography website. It feels good to finally get it finished off and looking close to as expected. It did not take me long to get the mobile-friendly code added. I did not expect it to take long, and for one of the few times in coding, I was right about time. I also spent the night reading more in Clean Code and taking notes. I am not far into the book, and I am already thinking about how I have done things in the past and how I could change them to be better. I did not get as much time coding as I wanted to yesterday. I am not sure what is going on, but for the last several days I have not been feeling well in the evenings. I have not changed much up in my normal routine, and I am doing better about eating better so hopefully, these issues pass.
 
 ---

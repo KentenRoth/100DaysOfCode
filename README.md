@@ -184,3 +184,9 @@ Day 27
 Today was a somewhat successful day. It started a little rough because of focus issues, but I was able to rein them in and get to work. I spent most of the afternoon working on my image slider. I read a Medium article about how to build one and set out to get it made. I was doing well, but ran into some snags, and had to refer back to the article to get the ship put back on the right path. My goal was to do it 100% without referring back to the article, but I ran into some issues that I couldn't solve at the time. I was able to fix most of my problems outside of a couple that I had to look up. I will be reading more Clean Code tonight and figuring out something as my next project. I do not have any significant ideas yet, but I want to build something out in JS to keep those skills fresh.
 
 ---
+
+Day 28
+
+I think my iMac is officially done.  I am having issues logging in and cannot get past the login screen.  I have been working on trying to fix it, but so far nothing is working.  So tonight it looks like it will be a night of reading Clean Code and taking notes.  The issues with my computer are starting to really get to me.  I think I will have to just use my laptop and deal with it until I can get a new computer in a couple months.  Hopefully I can get the iMac working so when I do get a new one I can get some of the stuff off of the old one.
+
+---

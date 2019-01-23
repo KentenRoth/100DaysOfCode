@@ -187,6 +187,12 @@ Today was a somewhat successful day. It started a little rough because of focus 
 
 Day 28
 
-I think my iMac is officially done.  I am having issues logging in and cannot get past the login screen.  I have been working on trying to fix it, but so far nothing is working.  So tonight it looks like it will be a night of reading Clean Code and taking notes.  The issues with my computer are starting to really get to me.  I think I will have to just use my laptop and deal with it until I can get a new computer in a couple months.  Hopefully I can get the iMac working so when I do get a new one I can get some of the stuff off of the old one.
+I think my iMac is officially done. I am having issues logging in and cannot get past the login screen. I have been working on trying to fix it, but so far nothing is working. So tonight it looks like it will be a night of reading Clean Code and taking notes. The issues with my computer are starting to really get to me. I think I will have to just use my laptop and deal with it until I can get a new computer in a couple months. Hopefully I can get the iMac working so when I do get a new one I can get some of the stuff off of the old one.
+
+---
+
+Day 29
+
+Today was no coding because I had to do a complete system wipe on my computer. I spent the night getting everything installed and setup again. I knew my computer was on the fritz, but still for some reason did not back up any of the templates that I had, or some of the React components that I built out. So on top of getting things installed about going again, I will have to redo all of my stuff that I should have saved. I cannot be upset that I lost those things because it's my fault for not saving them. I think once I get things finished and everything ready to go I will spend a night to build out the templates that I had. I will worry about the React components at a later time. So tomorrow will mark the beginning of a new day on my computer. I don't like missing nights of coding, but I know that reading Clean Code will help me out in the future, and make me a better coder.
 
 ---

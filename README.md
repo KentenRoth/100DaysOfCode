@@ -196,3 +196,9 @@ Day 29
 Today was no coding because I had to do a complete system wipe on my computer. I spent the night getting everything installed and setup again. I knew my computer was on the fritz, but still for some reason did not back up any of the templates that I had, or some of the React components that I built out. So on top of getting things installed about going again, I will have to redo all of my stuff that I should have saved. I cannot be upset that I lost those things because it's my fault for not saving them. I think once I get things finished and everything ready to go I will spend a night to build out the templates that I had. I will worry about the React components at a later time. So tomorrow will mark the beginning of a new day on my computer. I don't like missing nights of coding, but I know that reading Clean Code will help me out in the future, and make me a better coder.
 
 ---
+
+Day 30
+
+Today I worked on my FCC stuff. I had not been on FCC for a while, so it was good to get back into the curriculum. I did the Regular Expressions section, and I already feel like I should have taken better notes. I might go over parts of it again tomorrow to fill in some of the blanks I have in my notes. I am rereading the functions chapter in Clean Code to make sure I grasp what is going on fully also. I am still in a way feeling off with my computer getting wiped from the issues. I know this issue set me back a couple of steps, but in any journey, things are bound to happen and get in the way. I need to push past this obstacle and get back on track. I will spend some time brainstorming tomorrow at work on things to build. I know I need things that will push me further in JavaScript and with the design aspect of a website. I want to build out one or two more things before I redo my portfolio site entirely.
+
+---

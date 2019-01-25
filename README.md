@@ -202,3 +202,9 @@ Day 30
 Today I worked on my FCC stuff. I had not been on FCC for a while, so it was good to get back into the curriculum. I did the Regular Expressions section, and I already feel like I should have taken better notes. I might go over parts of it again tomorrow to fill in some of the blanks I have in my notes. I am rereading the functions chapter in Clean Code to make sure I grasp what is going on fully also. I am still in a way feeling off with my computer getting wiped from the issues. I know this issue set me back a couple of steps, but in any journey, things are bound to happen and get in the way. I need to push past this obstacle and get back on track. I will spend some time brainstorming tomorrow at work on things to build. I know I need things that will push me further in JavaScript and with the design aspect of a website. I want to build out one or two more things before I redo my portfolio site entirely.
 
 ---
+
+Day 31
+
+Today has been a real struggle. I still am fighting the feeling of no motivation. I want to do more and get things done, but when I sit down to do it, I have no focus. My computer is working much better than it has been since I was forced to wipe it, and I think losing everything is still the cause of my issues. Today at work was crazy busy and cold, so I did not have much of a brainstorm of ideas for different projects. I did jump online and look for ideas, but none of them seemed to fit in on what I want to accomplish. I will make a better more specific search tomorrow before work and think about how to set up things up and what fundamentals I will need to make it work. I will spend more time tonight reading than I had set aside, but because I cut my coding time short, I will increase my reading to keep coding my focus.
+
+---

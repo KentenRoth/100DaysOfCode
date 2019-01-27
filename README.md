@@ -220,3 +220,9 @@ Day 33
 Today I spent time making API calls to different APIs using axios. I wanted to get more practice in with axios, so I created a small project to make calls to different APIs. I used that to help me better understand axios and also to practice with reading documentation. I feel good after what I got done in axios. I am starting to feel more comfortable with starting up a project and getting things built out. I am not sure if I will do some more reading tonight or if I will give reading the night off.
 
 ---
+
+Day 34
+
+Today I spent a lot of time looking into why I could not check to see if my checkbox was checked or unchecked with React. I am not sure what I was doing wrong or what was happening, but I needed to take a break from it and walk away. In my mind, this is something that should be simple and what I had I thought would work with regular JS but is not working in React. I will do more reading and research to see what the deal is. I think my issues were coming from it not being in State. I had not created State in that component so I think maybe that is the issue in the end. I will mess with it later tonight or tomorrow. Once I get that figured out it 'should' be smooth sailing on my project.
+
+---

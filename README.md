@@ -214,3 +214,9 @@ Day 32
 Tonight I spent time setting up some templates and getting things back to normal. I had all my API keys backed up on my laptop, and got them moved back to my iMac. I will continue reading Clean Code and call that a night. Not a whole lot of excitement, but I feel like I'm moving back to getting things back to normal.
 
 ---
+
+Day 33
+
+Today I spent time making API calls to different APIs using axios. I wanted to get more practice in with axios, so I created a small project to make calls to different APIs. I used that to help me better understand axios and also to practice with reading documentation. I feel good after what I got done in axios. I am starting to feel more comfortable with starting up a project and getting things built out. I am not sure if I will do some more reading tonight or if I will give reading the night off.
+
+---

@@ -226,3 +226,9 @@ Day 34
 Today I spent a lot of time looking into why I could not check to see if my checkbox was checked or unchecked with React. I am not sure what I was doing wrong or what was happening, but I needed to take a break from it and walk away. In my mind, this is something that should be simple and what I had I thought would work with regular JS but is not working in React. I will do more reading and research to see what the deal is. I think my issues were coming from it not being in State. I had not created State in that component so I think maybe that is the issue in the end. I will mess with it later tonight or tomorrow. Once I get that figured out it 'should' be smooth sailing on my project.
 
 ---
+
+Day 35
+
+I am taking tonight off from coding and reading Clean Code. I am not feeling well and with the weather we are about to get I want to make sure I get extra sleep to hopefully prevent getting sick.
+
+---

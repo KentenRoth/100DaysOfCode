@@ -232,3 +232,9 @@ Day 35
 I am taking tonight off from coding and reading Clean Code. I am not feeling well and with the weather we are about to get I want to make sure I get extra sleep to hopefully prevent getting sick.
 
 ---
+
+Day 36
+
+Tonight after a lot of fighting with it I got my checkbox to toggle state. I think of something that is easy and if it doesn't work right the first time I start to over think things. I believe that it must be super complicated, but after researching, I find out that it was simple. After I got the toggle done, I moved on to the API calls. I am making the call to both API's at the jump to have data to populate both sides of the site. I will include a search bar so you can search for something specific. I do not know if this is the right way to do it, but this way is working. After I complete this project, I will possibly reach out to someone that knows a lot more about React to see if they can do a code review. I want to make sure I am doing things the correct way. Ultimately I feel great about tonight, and I will start creating components tomorrow.
+
+---

@@ -238,3 +238,9 @@ Day 36
 Tonight after a lot of fighting with it I got my checkbox to toggle state. I think of something that is easy and if it doesn't work right the first time I start to over think things. I believe that it must be super complicated, but after researching, I find out that it was simple. After I got the toggle done, I moved on to the API calls. I am making the call to both API's at the jump to have data to populate both sides of the site. I will include a search bar so you can search for something specific. I do not know if this is the right way to do it, but this way is working. After I complete this project, I will possibly reach out to someone that knows a lot more about React to see if they can do a code review. I want to make sure I am doing things the correct way. Ultimately I feel great about tonight, and I will start creating components tomorrow.
 
 ---
+
+Day 37
+
+I am posting this a little earlier than usual. I did get my search bar hooked up on my Star Wars and Pokemon site. I had some issues getting things to work as I wanted them to, but with reading the documentation and some trial and error I got it working. I plan on doing some of the design stuff next, and then from there, everything should be smooth sailing. I hope I do not run into any more errors, and if there are more, I find I hope I can knock them out quickly. I don't have a specific design in my head so that this part might take a little longer than usual. I will be coding more tonight, so maybe I will have a solid design idea by the time I get back on later.
+
+---

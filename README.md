@@ -244,3 +244,9 @@ Day 37
 I am posting this a little earlier than usual. I did get my search bar hooked up on my Star Wars and Pokemon site. I had some issues getting things to work as I wanted them to, but with reading the documentation and some trial and error I got it working. I plan on doing some of the design stuff next, and then from there, everything should be smooth sailing. I hope I do not run into any more errors, and if there are more, I find I hope I can knock them out quickly. I don't have a specific design in my head so that this part might take a little longer than usual. I will be coding more tonight, so maybe I will have a solid design idea by the time I get back on later.
 
 ---
+
+Day 38
+
+Tonight I am reading some more of Clean Code
+
+---

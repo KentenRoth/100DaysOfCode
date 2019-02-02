@@ -250,3 +250,9 @@ Day 38
 Tonight I am reading some more of Clean Code
 
 ---
+
+Day 39
+
+I spent tonight sketching up some ideas for my StarPoke site and some ideas for my porfolio.  I also finished off writing up my blog post, and plan on posting it tomorrow.
+
+---

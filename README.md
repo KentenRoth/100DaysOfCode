@@ -253,6 +253,12 @@ Tonight I am reading some more of Clean Code
 
 Day 39
 
-I spent tonight sketching up some ideas for my StarPoke site and some ideas for my porfolio.  I also finished off writing up my blog post, and plan on posting it tomorrow.
+I spent tonight sketching up some ideas for my StarPoke site and some ideas for my porfolio. I also finished off writing up my blog post, and plan on posting it tomorrow.
+
+---
+
+Day 40-41-42
+
+I didn't do much updating over this weekend. I did get a few things done but had a lot of stuff come up that kept me busy, and off the computer. I did a little design, but mainly my time was spent trying to understand how to get some specific things to work. I wanted to get my child component to update state on the parent component, and that would allow different things to be displayed. It took me a while, but I was successful and got everything working.
 
 ---

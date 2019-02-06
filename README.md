@@ -262,3 +262,9 @@ Day 40-41-42
 I didn't do much updating over this weekend. I did get a few things done but had a lot of stuff come up that kept me busy, and off the computer. I did a little design, but mainly my time was spent trying to understand how to get some specific things to work. I wanted to get my child component to update state on the parent component, and that would allow different things to be displayed. It took me a while, but I was successful and got everything working.
 
 ---
+
+Day 43
+
+Today I have to take time off from being on my computer. I smashed my finger at work today, and typing has been difficult and painful. I am going to read tonight and do some design research.
+
+---

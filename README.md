@@ -274,3 +274,9 @@ Day 44
 I am not sure what day I am officially on because I haven't updated in a few days. Today I spent my time working on the star wars side of my app. I got everything completed on that, along with some bug fixes. I spent a little longer than I wanted on a few things, but overall it feels good to be moving on to the pokemon side. I am not much of a designer for a lot of stuff so the site doesn't look beautiful, but it functions as expected right now. To me as long as it works like expected, then I am good with it. I can always come back and change up the design part.
 
 ---
+
+Day 45
+
+I spent the night reading.
+
+---

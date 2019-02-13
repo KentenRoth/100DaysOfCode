@@ -280,3 +280,9 @@ Day 45
 I spent the night reading.
 
 ---
+
+Day 46
+
+I did not do a whole lot tonight. I have been fighting the flu lately and trying to battle through it. Not sure what is going on, but I have not been able to eat much lately and feeling terrible. I hope this feeling resolves itself soon. Tonight I got stuff set up to work on the Pokemon side of the app I am working on. Hope I can get a large piece of it completed tomorrow.
+
+---

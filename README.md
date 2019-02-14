@@ -286,3 +286,9 @@ Day 46
 I did not do a whole lot tonight. I have been fighting the flu lately and trying to battle through it. Not sure what is going on, but I have not been able to eat much lately and feeling terrible. I hope this feeling resolves itself soon. Tonight I got stuff set up to work on the Pokemon side of the app I am working on. Hope I can get a large piece of it completed tomorrow.
 
 ---
+
+Day 47
+
+Tonight I spent time working on an issue that I didn't know I was having on my StarPoke app. I spent a lot of time trying to figure out why I couldn't get the map function to work and realized that I was not getting an array back I was getting an object returned. I looked at my response result multiple times, but for some reason, there was not a click in my head that should have been obvious. I guess some nights are just like that and there isn't much I can do about it. I feel like a lot of time was wasted on this issue, but I know I won't be having this issue again in the future.
+
+---

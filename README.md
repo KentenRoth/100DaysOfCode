@@ -292,3 +292,9 @@ Day 47
 Tonight I spent time working on an issue that I didn't know I was having on my StarPoke app. I spent a lot of time trying to figure out why I couldn't get the map function to work and realized that I was not getting an array back I was getting an object returned. I looked at my response result multiple times, but for some reason, there was not a click in my head that should have been obvious. I guess some nights are just like that and there isn't much I can do about it. I feel like a lot of time was wasted on this issue, but I know I won't be having this issue again in the future.
 
 ---
+
+Day 48
+
+Tonight I am doing more reading in Clean Code.  I am going back over a couple things to go over some of my notes that I decided to shorthand.  Tomorrow night and Saturday I will complete my StarPoke site then move on to my new portfolio site.  
+
+---

@@ -298,3 +298,9 @@ Day 48
 Tonight I am doing more reading in Clean Code.  I am going back over a couple things to go over some of my notes that I decided to shorthand.  Tomorrow night and Saturday I will complete my StarPoke site then move on to my new portfolio site.  
 
 ---
+
+Day 49
+
+I am going to do some light reading tonight and get up early.  I have my alarm set so I will be getting up early to knock out all the stuff I need to get done.  I have a lot of work around the house I need to do, but also am going to finish off my StarPoke project.  That will leave me Sunday to figure out my portfolio colors and design.  It's going to be a big weekend, and next weekend hopefully will be even better.
+
+---

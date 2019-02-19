@@ -310,3 +310,9 @@ Day 50
 Today I was going to get the site I was working on mobile friendly, but I decided that I wanted to get some of my assets, and things ready to get my portfolio built. I got most of the stuff needed to get everything ready. I am starting to get excited about getting my portfolio built again. I got my color pallet figured out and my design setup. I have not decided if I will do it in basic HTML or if it will be built in React. I am leaning towards doing it in basic HTML over React, but I could change my mind before I start building.
 
 ---
+
+Day 51
+
+I wanted to get some coding in, but ended up spending the night playing with my daughter and doing the family stuff.
+
+---

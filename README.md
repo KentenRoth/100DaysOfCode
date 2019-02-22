@@ -316,3 +316,9 @@ Day 51
 I wanted to get some coding in, but ended up spending the night playing with my daughter and doing the family stuff.
 
 ---
+
+Day 52
+
+Tonight was getting all the assets rounded up for my portfolio and getting everything ready to roll. I have a long weekend this so I will be hitting coding very hard this weekend. I plan on getting my portfolio completed this weekend, along with several other things. I feel like I have been slacking the last few days, so I need to get my focus back on what I need to get done and accomplish it.
+
+---

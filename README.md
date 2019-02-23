@@ -322,3 +322,9 @@ Day 52
 Tonight was getting all the assets rounded up for my portfolio and getting everything ready to roll. I have a long weekend this so I will be hitting coding very hard this weekend. I plan on getting my portfolio completed this weekend, along with several other things. I feel like I have been slacking the last few days, so I need to get my focus back on what I need to get done and accomplish it.
 
 ---
+
+Day 53
+
+Today I got to get some work done on my portfolio site. I did not get as far as I wanted, but I do feel good about my progress. I can knock out the rest of my portfolio over the weekend, and that should also give me enough time to put the last touches on an old project, and get my LinkedIn account updated.
+
+---

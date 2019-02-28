@@ -328,3 +328,9 @@ Day 53
 Today I got to get some work done on my portfolio site. I did not get as far as I wanted, but I do feel good about my progress. I can knock out the rest of my portfolio over the weekend, and that should also give me enough time to put the last touches on an old project, and get my LinkedIn account updated.
 
 ---
+
+Day 54-57
+
+I spent those days working on my portfolio site!  I have completed my portfolio and pushed it live.  Tonight I am updating my linkedIn and taking the next step towards starting a new career.  
+
+---

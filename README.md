@@ -334,3 +334,10 @@ Day 54-57
 I spent those days working on my portfolio site!  I have completed my portfolio and pushed it live.  Tonight I am updating my linkedIn and taking the next step towards starting a new career.  
 
 ---
+
+Day 58 (after break)
+
+
+It has been a long time since I put anything in here.  I feel bad for taking such a long break from updating, but my iMac finally met its maker.  I had been working on getting a new one while coding on my MacBook Air.  I didn't have all my needed things on my Air, and when I started to get some of the things I would typically use, my laptop began to struggle.  So I had to back off on what I had and what I was doing.  I still coded almost every day, but I did not get in as much as I wanted.  I now have my new iMac, and office area set up, so it will be back to normal now!
+
+---

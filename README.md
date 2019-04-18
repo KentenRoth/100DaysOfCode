@@ -331,13 +331,16 @@ Today I got to get some work done on my portfolio site. I did not get as far as 
 
 Day 54-57
 
-I spent those days working on my portfolio site!  I have completed my portfolio and pushed it live.  Tonight I am updating my linkedIn and taking the next step towards starting a new career.  
+I spent those days working on my portfolio site! I have completed my portfolio and pushed it live. Tonight I am updating my linkedIn and taking the next step towards starting a new career.
 
 ---
 
 Day 58 (after break)
 
-
-It has been a long time since I put anything in here.  I feel bad for taking such a long break from updating, but my iMac finally met its maker.  I had been working on getting a new one while coding on my MacBook Air.  I didn't have all my needed things on my Air, and when I started to get some of the things I would typically use, my laptop began to struggle.  So I had to back off on what I had and what I was doing.  I still coded almost every day, but I did not get in as much as I wanted.  I now have my new iMac, and office area set up, so it will be back to normal now!
+It has been a long time since I put anything in here. I feel bad for taking such a long break from updating, but my iMac finally met its maker. I had been working on getting a new one while coding on my MacBook Air. I didn't have all my needed things on my Air, and when I started to get some of the things I would typically use, my laptop began to struggle. So I had to back off on what I had and what I was doing. I still coded almost every day, but I did not get in as much as I wanted. I now have my new iMac, and office area set up, so it will be back to normal now!
 
 ---
+
+Day 59
+
+I am putting day 59 because I have no clue what the real days. I am out of the groove on updating my 100 days of code repo. The last few days I have been working on FCC algorithms and a side project that I have been doing. I have made progress on the FCC algorithms, but I haven't felt great about all of the ones I have completed. I have been doing my best to use MDN to find ways to complete some of the challenges, but a few of them I ended up on medium articles explaining how to complete them. I learned a lot of the articles, and they lead me to explore different things on MDN, but I don't feel as successful when I find answers in that way.

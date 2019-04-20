@@ -344,3 +344,11 @@ It has been a long time since I put anything in here. I feel bad for taking such
 Day 59
 
 I am putting day 59 because I have no clue what the real days. I am out of the groove on updating my 100 days of code repo. The last few days I have been working on FCC algorithms and a side project that I have been doing. I have made progress on the FCC algorithms, but I haven't felt great about all of the ones I have completed. I have been doing my best to use MDN to find ways to complete some of the challenges, but a few of them I ended up on medium articles explaining how to complete them. I learned a lot of the articles, and they lead me to explore different things on MDN, but I don't feel as successful when I find answers in that way.
+
+---
+
+Day 60 and 61
+
+The last two days I have been working on my side project, but have not made much headway on it. Today I decided that I would upload it to GitHub. I also decided that I was going to create a repo for the FCC algorithms so I could practice my testing along with doing them. I have completed all, but I think 1 or 2 on FCC, so I will be completing them again without looking at the answers I had. Also, I will be building the tests that go along with them. I am also using this time to practice a little TDD.
+
+---

@@ -352,3 +352,9 @@ Day 60 and 61
 The last two days I have been working on my side project, but have not made much headway on it. Today I decided that I would upload it to GitHub. I also decided that I was going to create a repo for the FCC algorithms so I could practice my testing along with doing them. I have completed all, but I think 1 or 2 on FCC, so I will be completing them again without looking at the answers I had. Also, I will be building the tests that go along with them. I am also using this time to practice a little TDD.
 
 ---
+
+Day 62
+
+Yesterday was Easter, and I ended up taking the day off because of all the family stuff going on. Today I spent time on lunch looking up different ideas for challenges. Tonight I started working on a challenge and continuing to get comfortable with Jest and testing. I have been refactoring down as much as I an then looking different things up online to see if I can refactor it even more. I found a GitHub repository that has a lot of different app ideas so that I will be looking more into those tomorrow. I plan on taking my laptop to work tomorrow to get some work in on my lunch and breaks. The weather is getting nicer, so I plan on packing lunch and eating outside in my car.
+
+---

@@ -358,3 +358,9 @@ Day 62
 Yesterday was Easter, and I ended up taking the day off because of all the family stuff going on. Today I spent time on lunch looking up different ideas for challenges. Tonight I started working on a challenge and continuing to get comfortable with Jest and testing. I have been refactoring down as much as I an then looking different things up online to see if I can refactor it even more. I found a GitHub repository that has a lot of different app ideas so that I will be looking more into those tomorrow. I plan on taking my laptop to work tomorrow to get some work in on my lunch and breaks. The weather is getting nicer, so I plan on packing lunch and eating outside in my car.
 
 ---
+
+Day 63
+
+Taking my laptop to lunch and coding while on lunch turned out well. I felt like I could zone in easily and stayed focused. Coding at lunch might end up being my new plan of attack to get some extra time in. The time felt good, and there wasn't much for distractions. I usually have to stop and take care of things or chat with my wife or daughter which is fine, but sometimes it breaks the zone I am in. With me doing this at lunch I use my phone as a hotspot, and there isn't anyone there to talk to.
+
+---

@@ -364,3 +364,9 @@ Day 63
 Taking my laptop to lunch and coding while on lunch turned out well. I felt like I could zone in easily and stayed focused. Coding at lunch might end up being my new plan of attack to get some extra time in. The time felt good, and there wasn't much for distractions. I usually have to stop and take care of things or chat with my wife or daughter which is fine, but sometimes it breaks the zone I am in. With me doing this at lunch I use my phone as a hotspot, and there isn't anyone there to talk to.
 
 ---
+
+Day 64 - 65
+
+Working on my computer in my car on breaks/lunch is still working well. Not sure I found a way to hack my system or if it's just being outside and enjoying the beautiful spring weather while coding that is helping. I have been successful coding from my call all week. I plan on switching up my morning routine some, so hopefully, that does not mess up my momentum I have going. I feel like when I code on the lunch breaks that I am in pure focus mode and it is an hour of my brain running on all cylinders.
+
+---

@@ -370,3 +370,9 @@ Day 64 - 65
 Working on my computer in my car on breaks/lunch is still working well. Not sure I found a way to hack my system or if it's just being outside and enjoying the beautiful spring weather while coding that is helping. I have been successful coding from my call all week. I plan on switching up my morning routine some, so hopefully, that does not mess up my momentum I have going. I feel like when I code on the lunch breaks that I am in pure focus mode and it is an hour of my brain running on all cylinders.
 
 ---
+
+Day 66
+
+I have been slacking on doing things on FCC, but I have been doing challenges on CodeWars instead. I feel good today because there was a challenge a few days ago that I didn't understand and couldn't get it done. Today that challenge happened to come back up, and I completed it. It might not have been the best solution on the list, but I was happy to see all tests pass and have the ability to submit my answer. I have been doing a lot better with algorithms, and slowly building up more confidence. I'm starting to feel like I am getting close to landing a new job, and feeling like I CAN do this.
+
+---

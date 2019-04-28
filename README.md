@@ -376,3 +376,9 @@ Day 66
 I have been slacking on doing things on FCC, but I have been doing challenges on CodeWars instead. I feel good today because there was a challenge a few days ago that I didn't understand and couldn't get it done. Today that challenge happened to come back up, and I completed it. It might not have been the best solution on the list, but I was happy to see all tests pass and have the ability to submit my answer. I have been doing a lot better with algorithms, and slowly building up more confidence. I'm starting to feel like I am getting close to landing a new job, and feeling like I CAN do this.
 
 ---
+
+Day 67
+
+I didn't do much coding today. I ended up doing things around the house, reading, and some meal prep for the coming week. I usually don't do any meal prep, and I cook whatever on my lunch or pick something up. I decided that I am going to start running this coming week or next week depending on when I can get my back stretched out more. I have been dealing with a stiff back for a while, so stretching it out is taking longer than I expected it to. I have been eating terrible and taking the unhealthy road to life lately, so I figure now is the best time to right the ship and head in a positive direction.
+
+---

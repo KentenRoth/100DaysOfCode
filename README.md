@@ -382,3 +382,9 @@ Day 67
 I didn't do much coding today. I ended up doing things around the house, reading, and some meal prep for the coming week. I usually don't do any meal prep, and I cook whatever on my lunch or pick something up. I decided that I am going to start running this coming week or next week depending on when I can get my back stretched out more. I have been dealing with a stiff back for a while, so stretching it out is taking longer than I expected it to. I have been eating terrible and taking the unhealthy road to life lately, so I figure now is the best time to right the ship and head in a positive direction.
 
 ---
+
+Day 68
+
+Today was a bit interesting. I get to work, and I'm not even there 20 minutes, and my wife called saying daycare flooded and is closed today. So I had to leave work and come home to have the day with my daughter. She was crazy good this morning and allowed me to do some work on my computer, and after how grumpy she was all weekend I am incredibly grateful for it. I got some more work done on CodeWars. Also, I have been working on understanding Regex, and I feel like I am no closer now to understanding it than I was before. There is so much going on in such a short span that I get confused rather quickly. I'll keep working implementing it when I feel I can on CodeWars, and hopefully, it will start to sink in.
+
+---

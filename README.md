@@ -388,3 +388,9 @@ Day 68
 Today was a bit interesting. I get to work, and I'm not even there 20 minutes, and my wife called saying daycare flooded and is closed today. So I had to leave work and come home to have the day with my daughter. She was crazy good this morning and allowed me to do some work on my computer, and after how grumpy she was all weekend I am incredibly grateful for it. I got some more work done on CodeWars. Also, I have been working on understanding Regex, and I feel like I am no closer now to understanding it than I was before. There is so much going on in such a short span that I get confused rather quickly. I'll keep working implementing it when I feel I can on CodeWars, and hopefully, it will start to sink in.
 
 ---
+
+Day 69
+
+Today was a rough day. My confidence in coding and drive was extremely low. I noticed that I started to feel that way when I was looking for jobs, and everything I was finding was asking for 5+ years experience and a CS degree, but they had it listed as an entry-level job. After some time to sit back and look at my day, I want to say that a lot of times when I dive into job listings I end up feeling like I am not worthy of changing careers. I feel like it is impossible. That feeling has yet to stop me from pushing forward because I knew before starting this adventure it would not be easy, but I still have troubles fighting the voice in my head saying that I cannot do it.
+
+---

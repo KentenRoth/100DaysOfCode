@@ -394,3 +394,9 @@ Day 69
 Today was a rough day. My confidence in coding and drive was extremely low. I noticed that I started to feel that way when I was looking for jobs, and everything I was finding was asking for 5+ years experience and a CS degree, but they had it listed as an entry-level job. After some time to sit back and look at my day, I want to say that a lot of times when I dive into job listings I end up feeling like I am not worthy of changing careers. I feel like it is impossible. That feeling has yet to stop me from pushing forward because I knew before starting this adventure it would not be easy, but I still have troubles fighting the voice in my head saying that I cannot do it.
 
 ---
+
+Day 70 - 71
+
+I came up with a project that I wanted to do, and have started to get the foundation set up. I was talking to a few people about what I want to accomplish, and what my current skill set is. With this project, it will push me past what I know and into areas I have yet to explore. One thing that was suggested to me was to use Docker. I have heard of Docker, but never looked into it or used it, so that will be a part of the learning experience. Also, I have not decided if I will do the backend in MongoDB or if I will take this time to learn SQL. I will spend a couple of days messing around with Docker trying to get a grip on how that works and what I need to do there. Then I will work on the front-end and get everything working. Once I get the design complete, I will move to the backend. That is my current game plan, but that could change.
+
+---

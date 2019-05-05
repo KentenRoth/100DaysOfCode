@@ -400,3 +400,9 @@ Day 70 - 71
 I came up with a project that I wanted to do, and have started to get the foundation set up. I was talking to a few people about what I want to accomplish, and what my current skill set is. With this project, it will push me past what I know and into areas I have yet to explore. One thing that was suggested to me was to use Docker. I have heard of Docker, but never looked into it or used it, so that will be a part of the learning experience. Also, I have not decided if I will do the backend in MongoDB or if I will take this time to learn SQL. I will spend a couple of days messing around with Docker trying to get a grip on how that works and what I need to do there. Then I will work on the front-end and get everything working. Once I get the design complete, I will move to the backend. That is my current game plan, but that could change.
 
 ---
+
+Day 72 - 74
+
+The weekend was fairly good. I had a lot planned but didn't get all of it done. I did complete the front-end part of my project I started. Now it is on to the back-end. This part is going to take much longer. I decided to go with MongoDB over SQL, but I will start learning SQL soon. I also did spend some time researching Docker, but I think I am going to stick with what I know to give my brain a rest. Also with everything I did get done I wanted to start using codepen to try different CSS things and designs. I have been watching a ton of CSS youtube videos, and some of the things that are created are crazy awesome, so I want to give a few of them a try for fun. Tomorrow I need to type of my April blog post because I didn't even realize it is May already.
+
+---

@@ -406,3 +406,9 @@ Day 72 - 74
 The weekend was fairly good. I had a lot planned but didn't get all of it done. I did complete the front-end part of my project I started. Now it is on to the back-end. This part is going to take much longer. I decided to go with MongoDB over SQL, but I will start learning SQL soon. I also did spend some time researching Docker, but I think I am going to stick with what I know to give my brain a rest. Also with everything I did get done I wanted to start using codepen to try different CSS things and designs. I have been watching a ton of CSS youtube videos, and some of the things that are created are crazy awesome, so I want to give a few of them a try for fun. Tomorrow I need to type of my April blog post because I didn't even realize it is May already.
 
 ---
+
+Day 75
+
+Tonight has not been productive. I spent most of the time helping my daughter with her "homework." She gets some things to help her read and color from daycare, so I spent a lot of time helping her with that and spending extra time with her tonight. I do plan on getting more setup on my project with React Router and possibly trying to get that running after she goes to bed.
+
+---
